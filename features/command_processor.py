@@ -10,6 +10,7 @@ import json
 from .web_search import WebSearcher
 from .app_launcher import app_launcher
 from .personality import PersonalityFeature
+from .stocks_market.stocks import StockMarketFeature
 
 logger = logging.getLogger(__name__)
 
@@ -21,6 +22,7 @@ class CommandProcessor:
             'weather': self._get_weather,
             'reminder': self._handle_reminder,
             'open': self._open_application,
+            'close': self._close_application,
             'search': self._web_search,
             'learn': self._handle_learning,
             'help': self._show_help,
@@ -30,6 +32,7 @@ class CommandProcessor:
         self.learning_data = {}
         self.web_searcher = WebSearcher()
         self.personality = PersonalityFeature()
+        self.stock_market = StockMarketFeature()
         self._load_data()
 
     def _load_data(self):
@@ -73,9 +76,17 @@ class CommandProcessor:
     def process_command(self, command: str, args: List[str]) -> str:
         """Process a command and its arguments."""
         try:
-            # Check if it's a personality-related command first
+            # Check if it's a stock market related query
+            if self.stock_market.can_handle(command):
+                return self.stock_market.process(command)
+            
+            # Check if it's a personality-related command
             if self.personality.can_handle(command):
                 return self.personality.process(command)
+            
+            # Handle information requests
+            if command.lower() == 'info' and args:
+                return self._get_info(args[0])
             
             # Special handling for "open" command
             if command.lower() == "open" and args:
@@ -142,6 +153,13 @@ class CommandProcessor:
         if not app_name:
             return "Please specify an application to open."
         success, message = app_launcher.launch_application(app_name)
+        return message
+
+    def _close_application(self, app_name: str) -> str:
+        """Close a specified application using the AppLauncher."""
+        if not app_name:
+            return "Please specify an application to close."
+        success, message = app_launcher.close_application(app_name)
         return message
 
     def _web_search(self, query: str) -> str:
@@ -220,6 +238,13 @@ class CommandProcessor:
         help_text = """
 You can interact with me naturally! Here are some examples:
 
+For Stock Market:
+- "Show me market summary"
+- "What is the price of [stock]?" (e.g., RELIANCE, TCS, HDFCBANK)
+- "Show me top gainers"
+- "Show me top losers"
+- "Show me [stock] history"
+
 For Information:
 - "Who is [person]?"
 - "Tell me about [topic]"
@@ -248,10 +273,5 @@ Other Commands:
 - "List reminders"
 - "Delete reminder [number]"
 - "Open [application]"
-
-You can also teach me new things using:
-- "Learn [topic] [information]"
-- "What do you know about [topic]?"
-- "List learned topics"
 """
         return help_text 

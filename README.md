@@ -10,14 +10,28 @@ A.R.E.N is an advanced AI assistant designed to provide intelligent responses an
 - Time and date information
 - Personality and conversational abilities
 - GUI interface with chat history
-- Theme customization
-- Emoji support
+- Console mode support
+- System operations and monitoring
+- Information retrieval and processing
+- Error handling and logging
 
 ## Requirements
 
 - Python 3.8 or higher
 - Windows operating system
 - Internet connection (for web search functionality)
+
+## Dependencies
+
+- numpy >= 1.21.0
+- PyQt6 >= 6.4.0
+- python-dateutil >= 2.8.2
+- colorama >= 0.4.6
+- tqdm >= 4.65.0
+- pandas >= 2.0.0
+- requests >= 2.31.0
+- beautifulsoup4 >= 4.12.0
+- psutil >= 5.9.0
 
 ## Installation
 
@@ -52,12 +66,12 @@ python main.py --console
 
 - Ask for time/date
 - Search the web
-- Set reminders
 - Launch applications
 - Have casual conversations
 - Ask about A.R.E.N's identity
-- Request jokes or motivation
-- Get weather reactions
+- Request information about topics
+- Get help with commands
+- System operations and monitoring
 
 ## Project Structure
 
@@ -69,9 +83,12 @@ aren/
 │   └── command_processor.py  # Command handling and features
 ├── gui/
 │   └── main_window.py    # GUI implementation
-├── main.py              # Main entry point
-├── requirements.txt     # Project dependencies
-└── README.md           # This file
+├── memory/              # Memory management and storage
+├── data/               # Data storage and resources
+├── main.py             # Main entry point
+├── requirements.txt    # Project dependencies
+├── run_aren.bat       # Setup and launch script
+└── README.md          # This file
 ```
 
 ## Development
@@ -81,6 +98,7 @@ aren/
 1. Add new command handlers in `features/command_processor.py`
 2. Update the neural processing in `brain/processor.py`
 3. Modify the GUI in `gui/main_window.py` if needed
+4. Add any new dependencies to `requirements.txt`
 
 ### Contributing
 
@@ -96,7 +114,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- PyQt team for the GUI framework
+- PyQt6 team for the GUI framework
 - Python community for various libraries and tools
 
 ## Support

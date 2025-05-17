@@ -1,0 +1,10 @@
+A.R.E.N 08:33 
+Hello! I'm A.R.E.N, your advanced AI assistant. How can I help you today? You 08:33 
+show me TCS price A.R.E.N 08:33 
+TCS Stock Information: Current Price: 3561.3 Previous Close: 3579.9 Day High: 3593.9 Day Low: 3546.1 Volume: 1666393 Market Cap: 12952376705024 You 08:34 
+show me top gainers A.R.E.N 08:34 
+I'm not sure how to respond to that. You can teach me by using the /learn command. You 08:34 
+show me market summary] A.R.E.N 08:34 
+Market Summary: NIFTY: Current: N/A Change: -42.29883 (-0.16877608%) BANKNIFTY: Current: N/A Change: -0.703125 (-0.0012701966%) You 08:34 
+What's the current price of HDFCBANK? A.R.E.N 08:34 
+HDFCBANK Stock Information: Current Price: 1934.7 Previous Close: 1933.8 Day High: 1943.8 Day Low: 1928.4 Volume: 7933371 Market Cap: 14811250294784 

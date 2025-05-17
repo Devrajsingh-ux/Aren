@@ -2,6 +2,7 @@ import os
 import subprocess
 import logging
 import winreg
+import psutil
 from typing import Optional, Tuple, Dict, List
 from pathlib import Path
 
@@ -135,6 +136,41 @@ class AppLauncher:
             List[str]: List of application names
         """
         return list(self.common_apps.keys())
+
+    def close_application(self, app_name: str) -> Tuple[bool, str]:
+        """
+        Attempts to close a running application.
+        
+        Args:
+            app_name (str): Name of the application to close
+            
+        Returns:
+            Tuple[bool, str]: (Success status, Message)
+        """
+        try:
+            app_name = app_name.lower().strip()
+            
+            # Get the process name from common apps if it exists
+            process_name = None
+            if app_name in self.common_apps:
+                process_name = os.path.basename(self.common_apps[app_name])
+            else:
+                process_name = f"{app_name}.exe"
+            
+            # Find and terminate the process
+            for proc in psutil.process_iter(['name']):
+                try:
+                    if proc.info['name'].lower() == process_name.lower():
+                        proc.terminate()
+                        return True, f"Successfully closed {app_name}"
+                except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
+                    continue
+            
+            return False, f"Could not find running application: {app_name}"
+            
+        except Exception as e:
+            self.logger.error(f"Error closing application {app_name}: {str(e)}")
+            return False, f"Error closing {app_name}: {str(e)}"
 
 # Create a singleton instance
 app_launcher = AppLauncher() 
