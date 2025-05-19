@@ -1,14 +1,5 @@
-numpy>=1.21.0
-PyQt6>=6.4.0
-python-dateutil>=2.8.2
-colorama>=0.4.6
-tqdm>=4.65.0
-pandas>=2.0.0
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-psutil>=5.9.0
-pyttsx3>=2.90
-loguru>=0.7.0
-yfinance>=0.2.36
-nsepy>=0.8
-scikit-learn>=1.3.0 
+# AREN Dependencies
+requests==2.31.0  # For web search, weather API, and translation API
+beautifulsoup4==4.12.2  # For HTML parsing
+regex==2023.12.25  # For advanced pattern matching
+# PyQt5==5.15.9  # For future GUI implementation (commented out for now)

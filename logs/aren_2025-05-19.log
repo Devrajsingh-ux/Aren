@@ -1,0 +1,287 @@
+2025-05-19 21:03:17,143 - aren - INFO - Starting AREN
+2025-05-19 21:03:17,143 - aren - INFO - Context Manager initialized
+2025-05-19 21:03:17,143 - aren - INFO - AREN Engine initialized
+2025-05-19 21:03:20,172 - aren - INFO - Processing input: hello
+2025-05-19 21:03:20,182 - aren - INFO - Selected capability: greeting with confidence: 0.5
+2025-05-19 21:03:20,182 - aren - INFO - Selected greeting: Shubh sandhya! Main A.R.E.N. hoon, aapki madad ke liye.
+2025-05-19 21:03:20,182 - aren - INFO - Added conversation exchange: hello...
+2025-05-19 21:03:20,182 - aren - INFO - Added action: capability_used
+2025-05-19 21:03:39,700 - aren - INFO - Processing input: who are you
+2025-05-19 21:03:39,700 - aren - INFO - Selected capability: search with confidence: 0.5
+2025-05-19 21:03:42,161 - aren - INFO - Added conversation exchange: who are you...
+2025-05-19 21:03:42,161 - aren - INFO - Added action: capability_used
+2025-05-19 21:05:22,684 - aren - INFO - Processing input: who are you?
+2025-05-19 21:05:22,684 - aren - INFO - Selected capability: search with confidence: 0.5
+2025-05-19 21:05:24,627 - aren - INFO - Added conversation exchange: who are you?...
+2025-05-19 21:05:24,627 - aren - INFO - Added action: capability_used
+2025-05-19 21:05:32,521 - aren - INFO - Processing input: who are you?
+2025-05-19 21:05:32,522 - aren - INFO - Selected capability: search with confidence: 0.5
+2025-05-19 21:05:33,764 - aren - INFO - Added conversation exchange: who are you?...
+2025-05-19 21:05:33,764 - aren - INFO - Added action: capability_used
+2025-05-19 21:05:42,104 - aren - INFO - Processing input: what's your name
+2025-05-19 21:05:42,104 - aren - INFO - Selected capability: search with confidence: 0.5
+2025-05-19 21:05:44,098 - aren - INFO - Added conversation exchange: what's your name...
+2025-05-19 21:05:44,098 - aren - INFO - Added action: capability_used
+2025-05-19 21:05:52,249 - aren - INFO - Processing input: tum kaun ho
+2025-05-19 21:05:52,249 - aren - INFO - Selected capability: identity with confidence: 0.5
+2025-05-19 21:05:52,249 - aren - INFO - Identity information requested
+2025-05-19 21:05:52,249 - aren - INFO - Added conversation exchange: tum kaun ho...
+2025-05-19 21:05:52,249 - aren - INFO - Added action: capability_used
+2025-05-19 21:06:07,409 - aren - INFO - Processing input: what time is it
+2025-05-19 21:06:07,410 - aren - INFO - Selected capability: time with confidence: 0.6
+2025-05-19 21:06:07,410 - aren - INFO - Added conversation exchange: what time is it...
+2025-05-19 21:06:07,410 - aren - INFO - Added action: capability_used
+2025-05-19 21:06:16,345 - aren - INFO - Processing input: What's today's date?
+2025-05-19 21:06:16,345 - aren - INFO - Selected capability: date with confidence: 0.5
+2025-05-19 21:06:16,345 - aren - INFO - Added conversation exchange: What's today's date?...
+2025-05-19 21:06:16,345 - aren - INFO - Added action: capability_used
+2025-05-19 21:06:25,573 - aren - INFO - Processing input: Who is Albert Einstein
+2025-05-19 21:06:25,574 - aren - INFO - Selected capability: search with confidence: 0.5
+2025-05-19 21:06:28,165 - aren - INFO - Added conversation exchange: Who is Albert Einstein...
+2025-05-19 21:06:28,165 - aren - INFO - Added action: capability_used
+2025-05-19 21:06:34,705 - aren - INFO - Processing input: What is Python programming
+2025-05-19 21:06:34,705 - aren - INFO - Selected capability: search with confidence: 0.5
+2025-05-19 21:06:37,015 - aren - INFO - Added conversation exchange: What is Python programming...
+2025-05-19 21:06:37,016 - aren - INFO - Added action: capability_used
+2025-05-19 21:06:47,274 - aren - INFO - Processing input: open notepad
+2025-05-19 21:06:47,274 - aren - INFO - Selected capability: launch_app with confidence: 0.5
+2025-05-19 21:06:47,274 - aren - INFO - Attempting to launch application: open notepad
+2025-05-19 21:06:47,553 - aren - INFO - Successfully launched notepad
+2025-05-19 21:06:47,553 - aren - INFO - Added conversation exchange: open notepad...
+2025-05-19 21:06:47,553 - aren - INFO - Added action: capability_used
+2025-05-19 21:07:09,088 - aren - INFO - Processing input: tell me about your self
+2025-05-19 21:07:09,088 - aren - INFO - Selected capability: search with confidence: 0.5
+2025-05-19 21:07:11,858 - aren - INFO - Added conversation exchange: tell me about your self...
+2025-05-19 21:07:11,859 - aren - INFO - Added action: capability_used
+2025-05-19 21:07:14,837 - aren - INFO - Processing input: tell me about yourself
+2025-05-19 21:07:14,837 - aren - INFO - Selected capability: search with confidence: 0.5
+2025-05-19 21:07:17,291 - aren - INFO - Added conversation exchange: tell me about yourself...
+2025-05-19 21:07:17,291 - aren - INFO - Added action: capability_used
+2025-05-19 21:10:28,047 - aren - INFO - AREN session interrupted by user
+2025-05-19 21:10:31,267 - aren - INFO - Starting A.R.E.N.
+2025-05-19 21:10:31,268 - aren - INFO - Context Manager initialized
+2025-05-19 21:10:31,268 - aren - INFO - AREN Engine initialized
+2025-05-19 21:10:34,605 - aren - INFO - Processing user input: hello 
+2025-05-19 21:10:34,605 - aren - INFO - Selected capability: greeting with confidence: 0.5
+2025-05-19 21:10:34,605 - aren - INFO - Selected greeting: Shubh sandhya! Main A.R.E.N. hoon, aapki madad ke liye.
+2025-05-19 21:10:34,605 - aren - INFO - Added conversation exchange: hello ...
+2025-05-19 21:10:34,605 - aren - INFO - Added action: capability_used
+2025-05-19 21:10:38,198 - aren - INFO - Processing user input: who are you
+2025-05-19 21:10:38,199 - aren - INFO - Selected capability: identity with confidence: 0.5
+2025-05-19 21:10:38,199 - aren - INFO - Identity information requested
+2025-05-19 21:10:38,199 - aren - INFO - Added conversation exchange: who are you...
+2025-05-19 21:10:38,199 - aren - INFO - Added action: capability_used
+2025-05-19 21:10:45,655 - aren - INFO - Processing user input: what is your name
+2025-05-19 21:10:45,656 - aren - INFO - Selected capability: identity with confidence: 0.5
+2025-05-19 21:10:45,656 - aren - INFO - Identity information requested
+2025-05-19 21:10:45,656 - aren - INFO - Added conversation exchange: what is your name...
+2025-05-19 21:10:45,656 - aren - INFO - Added action: capability_used
+2025-05-19 21:10:53,294 - aren - INFO - Processing user input: tell me about yourself
+2025-05-19 21:10:53,295 - aren - INFO - Selected capability: identity with confidence: 0.5
+2025-05-19 21:10:53,295 - aren - INFO - Identity information requested
+2025-05-19 21:10:53,295 - aren - INFO - Added conversation exchange: tell me about yourself...
+2025-05-19 21:10:53,295 - aren - INFO - Added action: capability_used
+2025-05-19 22:05:22,878 - aren - INFO - A.R.E.N. session ended
+2025-05-19 22:05:26,596 - aren - INFO - Starting A.R.E.N.
+2025-05-19 22:05:26,596 - aren - INFO - Context Manager initialized
+2025-05-19 22:05:26,596 - aren - INFO - AREN Engine initialized
+2025-05-19 22:06:09,352 - aren - INFO - Processing user input: hello
+2025-05-19 22:06:09,353 - aren - INFO - Making decision among options: ['greeting']
+2025-05-19 22:06:09,353 - aren - INFO - Selected 'greeting' with confidence 0.90
+2025-05-19 22:06:09,353 - aren - INFO - Selected capability: greeting with confidence: 0.9
+2025-05-19 22:06:09,353 - aren - INFO - Selected greeting: Hi there! Kya main aapki kuch madad kar sakta hoon?
+2025-05-19 22:06:09,353 - aren - INFO - Added conversation exchange: hello...
+2025-05-19 22:06:09,353 - aren - INFO - Added action: capability_used
+2025-05-19 22:06:25,801 - aren - INFO - Processing user input: who are you
+2025-05-19 22:06:25,801 - aren - INFO - Making decision among options: ['identity']
+2025-05-19 22:06:25,802 - aren - INFO - Selected 'identity' with confidence 1.00
+2025-05-19 22:06:25,802 - aren - INFO - Selected capability: identity with confidence: 1.0
+2025-05-19 22:06:25,802 - aren - INFO - Identity information requested
+2025-05-19 22:06:25,802 - aren - INFO - Added conversation exchange: who are you...
+2025-05-19 22:06:25,802 - aren - INFO - Added action: capability_used
+2025-05-19 22:06:47,189 - aren - INFO - Processing user input: what's the weather in Mumbai
+2025-05-19 22:06:47,189 - aren - INFO - Making decision among options: ['weather', 'search']
+2025-05-19 22:06:47,190 - aren - INFO - Selected 'weather' with confidence 0.90
+2025-05-19 22:06:47,190 - aren - INFO - Selected capability: weather with confidence: 0.9
+2025-05-19 22:06:47,190 - aren - INFO - Added conversation exchange: what's the weather in Mumbai...
+2025-05-19 22:06:47,190 - aren - INFO - Added action: capability_used
+2025-05-19 22:07:10,991 - aren - INFO - Processing user input: calculate 24 * 7
+2025-05-19 22:07:10,991 - aren - INFO - Making decision among options: ['calculation']
+2025-05-19 22:07:10,991 - aren - INFO - Selected 'calculation' with confidence 0.90
+2025-05-19 22:07:10,991 - aren - INFO - Selected capability: calculation with confidence: 0.9
+2025-05-19 22:07:10,992 - aren - INFO - Calculated: 24 * 7 = 168
+2025-05-19 22:07:10,992 - aren - INFO - Added conversation exchange: calculate 24 * 7...
+2025-05-19 22:07:10,992 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:14,853 - aren - INFO - Processing user input: translate hello to Hindi
+2025-05-19 22:11:14,853 - aren - INFO - Making decision among options: ['translate', 'greeting']
+2025-05-19 22:11:14,854 - aren - INFO - Selected 'translate' with confidence 0.90
+2025-05-19 22:11:14,854 - aren - INFO - Selected capability: translate with confidence: 0.9
+2025-05-19 22:11:15,352 - aren - ERROR - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002998F8A4D70>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-05-19 22:11:15,352 - aren - INFO - Added conversation exchange: translate hello to Hindi...
+2025-05-19 22:11:15,353 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:25,248 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:25,248 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:25,248 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:25,248 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:25,248 - aren - INFO - Selected joke: Why do programmers prefer dark mode? Because light attracts bugs!
+2025-05-19 22:11:25,248 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:25,248 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:27,015 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:27,015 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:27,015 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:27,015 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:27,016 - aren - INFO - Selected joke: Why do programmers prefer dark mode? Because light attracts bugs!
+2025-05-19 22:11:27,016 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:27,016 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:28,248 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:28,248 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:28,248 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:28,248 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:28,259 - aren - INFO - Selected joke: Main AI hoon, mujhe neend nahi aati!
+2025-05-19 22:11:28,259 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:28,259 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:29,260 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:29,260 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:29,260 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:29,260 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:29,260 - aren - INFO - Selected joke: Why don't robots get scared? Kyunki unke paas dil nahi hota!
+2025-05-19 22:11:29,260 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:29,260 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:30,106 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:30,106 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:30,106 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:30,106 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:30,106 - aren - INFO - Selected joke: Main AI hoon, mujhe neend nahi aati!
+2025-05-19 22:11:30,106 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:30,106 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:31,068 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:31,068 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:31,068 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:31,068 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:31,068 - aren - INFO - Selected joke: Why don't robots get scared? Kyunki unke paas dil nahi hota!
+2025-05-19 22:11:31,068 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:31,068 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:31,863 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:31,864 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:31,864 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:31,864 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:31,864 - aren - INFO - Selected joke: What's a computer's favorite snack? Microchips!
+2025-05-19 22:11:31,864 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:31,864 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:32,568 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:32,568 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:32,568 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:32,568 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:32,568 - aren - INFO - Selected joke: Why did the computer go to the doctor? Because it had a virus!
+2025-05-19 22:11:32,568 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:32,568 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:33,300 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:33,300 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:33,300 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:33,300 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:33,300 - aren - INFO - Selected joke: Why was the computer cold? It left its Windows open!
+2025-05-19 22:11:33,300 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:33,300 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:33,916 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:33,916 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:33,916 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:33,916 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:33,916 - aren - INFO - Selected joke: Why was the computer cold? It left its Windows open!
+2025-05-19 22:11:33,916 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:33,916 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:34,560 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:34,560 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:34,560 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:34,560 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:34,560 - aren - INFO - Selected joke: Why was the computer cold? It left its Windows open!
+2025-05-19 22:11:34,560 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:34,560 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:35,123 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:35,123 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:35,123 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:35,123 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:35,123 - aren - INFO - Selected joke: Main AI hoon, mujhe neend nahi aati!
+2025-05-19 22:11:35,123 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:35,123 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:35,685 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:35,685 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:35,685 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:35,685 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:35,685 - aren - INFO - Selected joke: Why did the computer go to the doctor? Because it had a virus!
+2025-05-19 22:11:35,685 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:35,685 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:36,301 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:36,301 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:36,301 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:36,301 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:36,301 - aren - INFO - Selected joke: Why don't robots get scared? Kyunki unke paas dil nahi hota!
+2025-05-19 22:11:36,301 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:36,301 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:37,188 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:37,188 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:37,188 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:37,188 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:37,188 - aren - INFO - Selected joke: Why was the computer cold? It left its Windows open!
+2025-05-19 22:11:37,188 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:37,188 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:37,807 - aren - INFO - Processing user input: tell me a joke
+2025-05-19 22:11:37,808 - aren - INFO - Making decision among options: ['joke']
+2025-05-19 22:11:37,808 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-05-19 22:11:37,808 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-05-19 22:11:37,808 - aren - INFO - Selected joke: Why did the computer go to the doctor? Because it had a virus!
+2025-05-19 22:11:37,808 - aren - INFO - Added conversation exchange: tell me a joke...
+2025-05-19 22:11:37,808 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:44,038 - aren - INFO - Processing user input: search for latest news
+2025-05-19 22:11:44,039 - aren - INFO - Making decision among options: ['search']
+2025-05-19 22:11:44,039 - aren - INFO - Selected 'search' with confidence 1.00
+2025-05-19 22:11:44,039 - aren - INFO - Selected capability: search with confidence: 1.0
+2025-05-19 22:11:44,039 - aren - INFO - Processing search query: search for latest news
+2025-05-19 22:11:46,720 - aren - INFO - Added conversation exchange: search for latest news...
+2025-05-19 22:11:46,720 - aren - INFO - Added action: capability_used
+2025-05-19 22:11:56,742 - aren - INFO - Processing user input: what is 15% of 240?
+2025-05-19 22:11:56,742 - aren - INFO - Making decision among options: ['search', 'search']
+2025-05-19 22:11:56,742 - aren - INFO - Selected 'search' with confidence 0.90
+2025-05-19 22:11:56,742 - aren - INFO - Selected capability: search with confidence: 0.9
+2025-05-19 22:11:56,742 - aren - INFO - Processing search query: what is 15% of 240?
+2025-05-19 22:11:59,972 - aren - INFO - Added conversation exchange: what is 15% of 240?...
+2025-05-19 22:11:59,972 - aren - INFO - Added action: capability_used
+2025-05-19 22:12:19,499 - aren - INFO - Processing user input: what's 2+2 and translate it to Spanish
+2025-05-19 22:12:19,499 - aren - INFO - Making decision among options: ['calculation', 'translate', 'search']
+2025-05-19 22:12:19,499 - aren - INFO - Selected 'translate' with confidence 0.90
+2025-05-19 22:12:19,499 - aren - INFO - Selected capability: translate with confidence: 0.9
+2025-05-19 22:12:19,507 - aren - ERROR - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002998EE87610>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-05-19 22:12:19,507 - aren - INFO - Added conversation exchange: what's 2+2 and translate it to...
+2025-05-19 22:12:19,507 - aren - INFO - Added action: capability_used
+2025-05-19 22:18:15,416 - aren - INFO - A.R.E.N. session ended
+2025-05-19 22:18:43,258 - aren - INFO - Starting A.R.E.N.
+2025-05-19 22:18:43,258 - aren - INFO - Context Manager initialized
+2025-05-19 22:18:43,258 - aren - INFO - AREN Engine initialized
+2025-05-19 22:19:07,672 - aren - INFO - Processing user input: What's the weather in Mumbai?
+2025-05-19 22:19:07,672 - aren - INFO - Making decision among options: ['weather', 'search']
+2025-05-19 22:19:07,673 - aren - INFO - Selected 'weather' with confidence 0.90
+2025-05-19 22:19:07,673 - aren - INFO - Selected capability: weather with confidence: 0.9
+2025-05-19 22:19:07,673 - aren - INFO - Generated mock weather for Mumbai
+2025-05-19 22:19:07,673 - aren - INFO - Added conversation exchange: What's the weather in Mumbai?...
+2025-05-19 22:19:07,673 - aren - INFO - Added action: capability_used
+2025-05-19 22:19:34,346 - aren - INFO - Processing user input: Translate hello to Spanish
+2025-05-19 22:19:34,346 - aren - INFO - Making decision among options: ['translate', 'greeting']
+2025-05-19 22:19:34,347 - aren - INFO - Selected 'translate' with confidence 0.90
+2025-05-19 22:19:34,347 - aren - INFO - Selected capability: translate with confidence: 0.9
+2025-05-19 22:19:34,347 - aren - INFO - Used built-in translation for 'hello' to es
+2025-05-19 22:19:34,347 - aren - INFO - Added conversation exchange: Translate hello to Spanish...
+2025-05-19 22:19:34,347 - aren - INFO - Added action: capability_used
+2025-05-19 22:19:42,911 - aren - INFO - Processing user input: What's the latest news?
+2025-05-19 22:19:42,911 - aren - INFO - Making decision among options: ['search']
+2025-05-19 22:19:42,911 - aren - INFO - Selected 'search' with confidence 0.50
+2025-05-19 22:19:42,911 - aren - INFO - Selected capability: search with confidence: 0.5
+2025-05-19 22:19:42,912 - aren - INFO - Using predefined result for query: What's the latest news?
+2025-05-19 22:19:42,912 - aren - INFO - Added conversation exchange: What's the latest news?...
+2025-05-19 22:19:42,912 - aren - INFO - Added action: capability_used
+2025-05-19 22:19:57,066 - aren - INFO - Processing user input: Who invented the internet?
+2025-05-19 22:19:57,066 - aren - INFO - Making decision among options: ['search']
+2025-05-19 22:19:57,066 - aren - INFO - Selected 'search' with confidence 0.60
+2025-05-19 22:19:57,066 - aren - INFO - Selected capability: search with confidence: 0.6
+2025-05-19 22:19:57,066 - aren - INFO - Using predefined result for query: Who invented the internet?
+2025-05-19 22:19:57,066 - aren - INFO - Added conversation exchange: Who invented the internet?...
+2025-05-19 22:19:57,066 - aren - INFO - Added action: capability_used
+2025-05-19 22:20:02,069 - aren - INFO - A.R.E.N. session ended
