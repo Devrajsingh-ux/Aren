@@ -7,6 +7,7 @@ import sys
 import os
 from brain.engine import ArenEngine
 from utils.logging_utils import logger
+from chat_gui import ArenChatGUI
 
 def setup_environment():
     """Set up the environment for AREN"""
@@ -23,8 +24,16 @@ def setup_environment():
 def main():
     """Main function for AREN"""
     setup_environment()
-    
     logger.info("Starting A.R.E.N.")
+    
+    # Check if CLI mode is requested
+    if len(sys.argv) > 1 and sys.argv[1] == '--cli':
+        run_cli_mode()
+    else:
+        run_gui_mode()
+
+def run_cli_mode():
+    """Run AREN in CLI mode"""
     print("Welcome to A.R.E.N. (Assistant for Regular and Extraordinary Needs)")
     print("Type 'exit', 'quit', or 'bye' to end the session")
     
@@ -48,10 +57,11 @@ def main():
     finally:
         logger.info("A.R.E.N. session ended")
 
+def run_gui_mode():
+    """Run AREN in GUI mode"""
+    logger.info("Starting AREN in GUI mode")
+    app = ArenChatGUI()
+    app.run()
+
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        logger.critical(f"Critical error: {str(e)}")
-        print(f"Critical error: {str(e)}")
-        sys.exit(1)
+    main()

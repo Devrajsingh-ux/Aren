@@ -1,0 +1,124 @@
+2025-07-09 23:53:08,519 - aren - INFO - Starting A.R.E.N.
+2025-07-09 23:53:08,520 - aren - INFO - Context Manager initialized
+2025-07-09 23:53:08,520 - aren - INFO - AREN Engine initialized
+2025-07-09 23:53:11,161 - aren - INFO - Processing user input: hello
+2025-07-09 23:53:11,162 - aren - INFO - Making decision among options: ['greeting']
+2025-07-09 23:53:11,162 - aren - INFO - Selected 'greeting' with confidence 0.90
+2025-07-09 23:53:11,162 - aren - INFO - Selected capability: greeting with confidence: 0.9
+2025-07-09 23:53:11,162 - aren - INFO - Selected greeting: Namaste! Raat me jaag rahe hain?
+2025-07-09 23:53:11,162 - aren - INFO - Added conversation exchange: hello...
+2025-07-09 23:53:11,162 - aren - INFO - Added action: capability_used
+2025-07-09 23:53:18,322 - aren - INFO - Processing user input: how are you
+2025-07-09 23:53:18,323 - aren - INFO - Making decision among options: ['search']
+2025-07-09 23:53:18,323 - aren - INFO - Selected 'search' with confidence 0.70
+2025-07-09 23:53:18,323 - aren - INFO - Selected capability: search with confidence: 0.7
+2025-07-09 23:53:18,323 - aren - INFO - Processing search query: how are you
+2025-07-09 23:53:20,314 - aren - INFO - Added conversation exchange: how are you...
+2025-07-09 23:53:20,314 - aren - INFO - Added action: capability_used
+2025-07-09 23:53:27,098 - aren - INFO - Processing user input: what is your name
+2025-07-09 23:53:27,098 - aren - INFO - Making decision among options: ['identity']
+2025-07-09 23:53:27,099 - aren - INFO - Selected 'identity' with confidence 1.00
+2025-07-09 23:53:27,099 - aren - INFO - Selected capability: identity with confidence: 1.0
+2025-07-09 23:53:27,099 - aren - INFO - Identity information requested
+2025-07-09 23:53:27,099 - aren - INFO - Added conversation exchange: what is your name...
+2025-07-09 23:53:27,099 - aren - INFO - Added action: capability_used
+2025-07-09 23:53:59,527 - aren - INFO - Processing user input: what time is it
+2025-07-09 23:53:59,527 - aren - INFO - Making decision among options: ['time', 'search']
+2025-07-09 23:53:59,528 - aren - INFO - Selected 'time' with confidence 1.00
+2025-07-09 23:53:59,528 - aren - INFO - Selected capability: time with confidence: 1.0
+2025-07-09 23:53:59,528 - aren - INFO - Added conversation exchange: what time is it...
+2025-07-09 23:53:59,528 - aren - INFO - Added action: capability_used
+2025-07-09 23:54:07,313 - aren - INFO - Processing user input: what's today date
+2025-07-09 23:54:07,313 - aren - INFO - Making decision among options: ['date', 'search']
+2025-07-09 23:54:07,313 - aren - INFO - Selected 'date' with confidence 1.00
+2025-07-09 23:54:07,313 - aren - INFO - Selected capability: date with confidence: 1.0
+2025-07-09 23:54:07,314 - aren - INFO - Added conversation exchange: what's today date...
+2025-07-09 23:54:07,314 - aren - INFO - Added action: capability_used
+2025-07-09 23:54:15,451 - aren - INFO - Processing user input: what day is it today
+2025-07-09 23:54:15,451 - aren - INFO - Making decision among options: ['search']
+2025-07-09 23:54:15,451 - aren - INFO - Selected 'search' with confidence 0.60
+2025-07-09 23:54:15,451 - aren - INFO - Selected capability: search with confidence: 0.6
+2025-07-09 23:54:15,452 - aren - INFO - Processing search query: what day is it today
+2025-07-09 23:54:18,529 - aren - INFO - Added conversation exchange: what day is it today...
+2025-07-09 23:54:18,529 - aren - INFO - Added action: capability_used
+2025-07-09 23:54:35,513 - aren - INFO - Processing user input: tell me the time in tokyo
+2025-07-09 23:54:35,513 - aren - INFO - Making decision among options: ['time']
+2025-07-09 23:54:35,513 - aren - INFO - Selected 'time' with confidence 0.90
+2025-07-09 23:54:35,513 - aren - INFO - Selected capability: time with confidence: 0.9
+2025-07-09 23:54:35,513 - aren - INFO - Added conversation exchange: tell me the time in tokyo...
+2025-07-09 23:54:35,513 - aren - INFO - Added action: capability_used
+2025-07-09 23:54:57,613 - aren - INFO - Processing user input: what's the weather in New York
+2025-07-09 23:54:57,614 - aren - INFO - Making decision among options: ['weather', 'search']
+2025-07-09 23:54:57,614 - aren - INFO - Selected 'weather' with confidence 0.90
+2025-07-09 23:54:57,614 - aren - INFO - Selected capability: weather with confidence: 0.9
+2025-07-09 23:54:57,614 - aren - INFO - Generated mock weather for New York
+2025-07-09 23:54:57,614 - aren - INFO - Added conversation exchange: what's the weather in New York...
+2025-07-09 23:54:57,614 - aren - INFO - Added action: capability_used
+2025-07-09 23:56:59,883 - aren - INFO - Processing user input: Calculate 25 * 48
+2025-07-09 23:56:59,884 - aren - INFO - Making decision among options: ['calculation']
+2025-07-09 23:56:59,884 - aren - INFO - Selected 'calculation' with confidence 0.90
+2025-07-09 23:56:59,884 - aren - INFO - Selected capability: calculation with confidence: 0.9
+2025-07-09 23:56:59,886 - aren - INFO - Calculated: 25 * 48 = 1200
+2025-07-09 23:56:59,886 - aren - INFO - Added conversation exchange: Calculate 25 * 48...
+2025-07-09 23:56:59,886 - aren - INFO - Added action: capability_used
+2025-07-09 23:57:14,028 - aren - INFO - Processing user input: What is the square root of 144?
+2025-07-09 23:57:14,028 - aren - INFO - Making decision among options: ['search', 'search']
+2025-07-09 23:57:14,028 - aren - INFO - Selected 'search' with confidence 0.90
+2025-07-09 23:57:14,028 - aren - INFO - Selected capability: search with confidence: 0.9
+2025-07-09 23:57:14,029 - aren - INFO - Processing search query: What is the square root of 144?
+2025-07-09 23:57:17,051 - aren - INFO - Added conversation exchange: What is the square root of 144...
+2025-07-09 23:57:17,051 - aren - INFO - Added action: capability_used
+2025-07-09 23:57:30,790 - aren - INFO - Processing user input: Solve this equation: (10 + 5) * 3
+2025-07-09 23:57:30,790 - aren - INFO - Making decision among options: ['calculation', 'greeting']
+2025-07-09 23:57:30,790 - aren - INFO - Selected 'calculation' with confidence 0.50
+2025-07-09 23:57:30,790 - aren - INFO - Selected capability: calculation with confidence: 0.5
+2025-07-09 23:57:30,790 - aren - INFO - Calculated: 10 + 5 = 15
+2025-07-09 23:57:30,790 - aren - INFO - Added conversation exchange: Solve this equation: (10 + 5) ...
+2025-07-09 23:57:30,791 - aren - INFO - Added action: capability_used
+2025-07-09 23:57:48,958 - aren - INFO - Processing user input: Search for recent AI developments
+2025-07-09 23:57:48,958 - aren - INFO - Making decision among options: ['search']
+2025-07-09 23:57:48,958 - aren - INFO - Selected 'search' with confidence 1.00
+2025-07-09 23:57:48,958 - aren - INFO - Selected capability: search with confidence: 1.0
+2025-07-09 23:57:48,959 - aren - INFO - Processing search query: Search for recent AI developments
+2025-07-09 23:57:52,139 - aren - INFO - Added conversation exchange: Search for recent AI developme...
+2025-07-09 23:57:52,139 - aren - INFO - Added action: capability_used
+2025-07-09 23:58:04,103 - aren - INFO - Processing user input: Who won the latest Nobel Prize in Physics?
+2025-07-09 23:58:04,103 - aren - INFO - Making decision among options: ['search']
+2025-07-09 23:58:04,103 - aren - INFO - Selected 'search' with confidence 0.60
+2025-07-09 23:58:04,103 - aren - INFO - Selected capability: search with confidence: 0.6
+2025-07-09 23:58:04,103 - aren - INFO - Processing search query: Who won the latest Nobel Prize in Physics?
+2025-07-09 23:58:07,325 - aren - INFO - Added conversation exchange: Who won the latest Nobel Prize...
+2025-07-09 23:58:07,325 - aren - INFO - Added action: capability_used
+2025-07-09 23:58:13,512 - aren - INFO - Processing user input: Define artificial intelligence
+2025-07-09 23:58:13,512 - aren - INFO - Making decision among options: ['unknown']
+2025-07-09 23:58:13,512 - aren - INFO - Selected 'unknown' with confidence 0.50
+2025-07-09 23:58:13,512 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-09 23:58:13,512 - aren - INFO - Added conversation exchange: Define artificial intelligence...
+2025-07-09 23:58:13,512 - aren - INFO - Added action: capability_used
+2025-07-09 23:58:23,668 - aren - INFO - Processing user input: What is the capital of France?
+2025-07-09 23:58:23,669 - aren - INFO - Making decision among options: ['search', 'search']
+2025-07-09 23:58:23,669 - aren - INFO - Selected 'search' with confidence 0.90
+2025-07-09 23:58:23,669 - aren - INFO - Selected capability: search with confidence: 0.9
+2025-07-09 23:58:23,669 - aren - INFO - Processing search query: What is the capital of France?
+2025-07-09 23:58:27,164 - aren - INFO - Added conversation exchange: What is the capital of France?...
+2025-07-09 23:58:27,164 - aren - INFO - Added action: capability_used
+2025-07-09 23:59:08,028 - aren - INFO - Processing user input: How far is the moon from Earth?
+2025-07-09 23:59:08,028 - aren - INFO - Making decision among options: ['search']
+2025-07-09 23:59:08,028 - aren - INFO - Selected 'search' with confidence 0.60
+2025-07-09 23:59:08,029 - aren - INFO - Selected capability: search with confidence: 0.6
+2025-07-09 23:59:08,029 - aren - INFO - Processing search query: How far is the moon from Earth?
+2025-07-09 23:59:11,602 - aren - INFO - Added conversation exchange: How far is the moon from Earth...
+2025-07-09 23:59:11,602 - aren - INFO - Added action: capability_used
+2025-07-09 23:59:18,492 - aren - INFO - Processing user input: Convert 50 kilometers to miles
+2025-07-09 23:59:18,492 - aren - INFO - Making decision among options: ['unknown']
+2025-07-09 23:59:18,492 - aren - INFO - Selected 'unknown' with confidence 0.50
+2025-07-09 23:59:18,492 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-09 23:59:18,492 - aren - INFO - Added conversation exchange: Convert 50 kilometers to miles...
+2025-07-09 23:59:18,492 - aren - INFO - Added action: capability_used
+2025-07-09 23:59:27,147 - aren - INFO - Processing user input: What is the population of India?
+2025-07-09 23:59:27,147 - aren - INFO - Making decision among options: ['search', 'search']
+2025-07-09 23:59:27,147 - aren - INFO - Selected 'search' with confidence 0.90
+2025-07-09 23:59:27,147 - aren - INFO - Selected capability: search with confidence: 0.9
+2025-07-09 23:59:27,147 - aren - INFO - Processing search query: What is the population of India?
+2025-07-09 23:59:30,466 - aren - INFO - Added conversation exchange: What is the population of Indi...
+2025-07-09 23:59:30,466 - aren - INFO - Added action: capability_used

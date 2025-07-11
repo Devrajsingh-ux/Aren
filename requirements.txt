@@ -1,5 +1,6 @@
-# AREN Dependencies
-requests==2.31.0  # For web search, weather API, and translation API
-beautifulsoup4==4.12.2  # For HTML parsing
-regex==2023.12.25  # For advanced pattern matching
-# PyQt5==5.15.9  # For future GUI implementation (commented out for now)
+customtkinter==5.2.0
+pillow==10.0.0
+requests==2.31.0
+flask==2.3.3
+flask-cors==4.0.0
+gunicorn==21.2.0

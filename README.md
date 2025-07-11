@@ -1,83 +1,196 @@
 # A.R.E.N. (Assistant for Regular and Extraordinary Needs)
 
-AREN is a Python-based AI assistant designed to help with various tasks. It uses a modular architecture with a decision-making engine to process user requests and provide helpful responses.
+A powerful AI assistant that can help you with various tasks in both English and Hindi. AREN is designed to be your everyday companion for regular tasks and extraordinary needs.
 
 ## Features
 
-AREN includes the following capabilities:
+### 1. Information Services
+- **Time & Date**: Get current time and date information
+  - "What's the current time?" / "Abhi kitne baje hain?"
+  - "Today's date?" / "Aaj ki tareekh batao"
 
-- **Basic Interaction**
-  - Greetings and identity information
-  - Jokes and casual conversation
-  
-- **Information Services**
-  - Current time and date information
-  - Web search for information
-  - Weather information for locations
-  - Calculator for mathematical expressions
-  - Translation between multiple languages
-  
-- **System Actions**
-  - Application launching
+- **Weather**: Check weather conditions for any location
+  - "What's the weather like in Mumbai?"
+  - "Delhi ka mausam kaisa hai?"
 
-## Architecture
+- **Calculator**: Perform mathematical calculations
+  - Basic arithmetic operations
+  - Percentage calculations
+  - Special functions (sqrt, sin, cos, tan)
+  - "Calculate 15% of 850"
+  - "24 * 7 kitna hota hai?"
 
-AREN is built with a modular design:
+- **Translation**: Translate between multiple languages
+  - Supports 18 languages including:
+  - English, Hindi, Spanish, French, German
+  - Italian, Japanese, Korean, Chinese
+  - Russian, Arabic, Bengali, Urdu
+  - Punjabi, Tamil, Telugu, Marathi, Gujarati
 
-- **Brain**: Core decision-making and context management
-  - Engine: Main processing logic and capability integration
-  - Decision Maker: Intelligent selection of appropriate actions
-  - Context Manager: Maintains conversation history and user preferences
-  
-- **Features**: Specialized capabilities for different tasks
-  - Information: Time, date, search, weather, calculation, translation
-  - Actions: Application automation
-  - Interaction: Personality, greetings, identity
-  
-- **Memory**: Storage for user data and preferences
-  - User preferences are saved between sessions
-  
-- **Utils**: Helper functions and utilities
+### 2. System Automation
+- **Application Launch**:
+  - Open common applications (Chrome, Firefox, Notepad, Calculator)
+  - "Open Chrome" / "Notepad kholo"
+  - Cross-platform support (Windows, Linux, MacOS)
+
+### 3. Interactive Features
+- **Bilingual Support**:
+  - Full English and Hindi language support
+  - Mixed language (Hinglish) understanding
+
+- **Smart Responses**:
+  - Context-aware conversations
+  - Time-based greetings
+  - Personalized interactions
+  - Error handling with clear messages
+
+- **Memory & Learning**:
+  - Conversation history tracking
+  - User preference learning
+  - Context retention between sessions
+
+### 4. User Interface
+- **Modern GUI**:
+  - Dark theme interface
+  - Easy-to-use chat interface
+  - Message history with timestamps
+  - Status indicators
+
+- **Input Methods**:
+  - Enter to send messages
+  - Shift+Enter for multi-line input
+  - Clear message formatting
+
+### 5. Mobile App & API
+- **Mobile Application**:
+  - React Native & Expo-based mobile app
+  - Voice recognition interface
+  - Chat history with timestamps
+  - Works on Android and iOS
+
+- **API Server**:
+  - RESTful API for mobile and web integration
+  - Status and processing endpoints
+  - JSON-based communication
+  - Cross-platform compatibility
+
+## Project Structure
+```
+aren/
+├── brain/
+│   ├── __init__.py
+│   ├── core.py           # Core processing logic
+│   ├── decision.py       # Decision making system
+│   ├── engine.py         # Main AREN engine
+│   └── context.py        # Context management
+├── features/
+│   ├── information/
+│   │   ├── calculator.py     # Math calculations
+│   │   ├── search.py         # Web search
+│   │   ├── time_date.py      # Time and date
+│   │   ├── translator.py     # Language translation
+│   │   └── weather.py        # Weather information
+│   ├── interaction/
+│   │   ├── personality.py    # Personality traits
+│   │   └── responses.py      # Response generation
+│   └── actions/
+│       └── automation.py     # System automation
+├── utils/
+│   ├── logging_utils.py      # Logging utilities
+│   └── database.py          # Database management
+├── logs/                    # Log files
+├── memory/
+│   └── user_data/          # User data storage
+├── mobile/                 # Mobile app codebase
+│   ├── app/                # Expo Router app directory
+│   ├── components/         # React Native components
+│   ├── screens/            # App screens
+│   └── services/           # API services
+├── api_server.py           # API server implementation
+├── run_aren.py             # Multi-mode runner script
+├── main.py                 # Main entry point
+├── chat_gui.py             # GUI interface
+└── requirements.txt        # Dependencies
+```
 
 ## Installation
 
-1. Clone the repository
-2. Install dependencies:
-   ```
+1. **Prerequisites**:
+   - Python 3.8 or higher
+   - MySQL Server (for database)
+   - Internet connection (for weather and translation)
+
+2. **Setup**:
+   ```bash
+   # Clone the repository
+   git clone https://github.com/yourusername/aren.git
+   cd aren
+
+   # Install dependencies
    pip install -r requirements.txt
+
+   # Configure database
+   # Edit utils/database.py with your MySQL credentials
    ```
-3. Set up API keys as environment variables (optional):
-   - `OPENWEATHER_API_KEY` for weather functionality
 
-## Usage
+3. **API Keys** (Optional):
+   - For weather: Get OpenWeatherMap API key
+   - Set in environment variables or .env file
 
-Run AREN from the command line:
+## Running AREN
 
+### GUI Mode (Recommended)
+```bash
+python main.py
 ```
-python -m main
+
+### CLI Mode (Alternative)
+```bash
+python main.py --cli
 ```
 
-Interact with AREN by typing your queries. Some examples:
+### API Server Mode (For Mobile App)
+```bash
+python run_aren.py --api [port]
+```
 
-- "What time is it?"
-- "Tell me a joke"
-- "What's the weather in New York?"
-- "Calculate 25 * 48"
-- "Translate hello to Spanish"
-- "Search for recent news"
-- "Open notepad"
+### Combined Mode (GUI + API Server)
+```bash
+python run_aren.py --combined [port]
+```
 
-Type 'exit', 'quit', or 'bye' to end the session.
+## Mobile App Integration
 
-## Extending AREN
+The AREN mobile app connects to the backend API server to provide a voice-based interface on mobile devices.
 
-AREN is designed to be easily extended with new capabilities. To add a new feature:
+For detailed setup instructions, see [MOBILE_INTEGRATION.md](MOBILE_INTEGRATION.md)
 
-1. Create a new module in the appropriate features directory
-2. Implement the core functionality
-3. Add detection patterns to the engine.py file
-4. Register the new capability in the ArenEngine's capabilities dictionary
+## Usage Tips
+
+1. **Language**:
+   - Use English, Hindi, or mix both
+   - Clear pronunciation helps accuracy
+
+2. **Commands**:
+   - Be specific in requests
+   - Use natural language
+   - Both short and detailed commands work
+
+3. **Features**:
+   - Start with "help" to see available commands
+   - Use "examples" to see usage examples
+
+## Error Handling
+
+- If Aren doesn't understand, it will ask for clarification
+- For technical errors, check the logs/ directory
+- Database errors will be reported in the status bar
+
+## Creator
+
+Created by Devraj Singh Shakya (Ghost/Dev)
+B.Tech CSE student at Amity University Gwalior
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is licensed under the MIT License - see the LICENSE file for details.

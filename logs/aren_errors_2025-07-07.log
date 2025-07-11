@@ -1,0 +1,48 @@
+2025-07-07 19:03:20 - aren - ERROR - [logging_utils.py:92] - {
+  "error_type": "RuntimeError",
+  "error_message": "Intentional error",
+  "traceback": "Traceback (most recent call last):\n  File \"X:\\Porject\\Aren\\utils\\logging_utils.py\", line 107, in wrapper\n    result = func(*args, **kwargs)\n  File \"X:\\Porject\\Aren\\test\\test_logging.py\", line 71, in error_prone_function\n    raise RuntimeError(\"Intentional error\")\nRuntimeError: Intentional error\n",
+  "context": {
+    "function": "error_prone_function",
+    "args": [],
+    "kwargs": {
+      "should_raise": true
+    }
+  }
+}
+2025-07-07 19:03:20 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D902D212B0>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:03:51 - aren - ERROR - [logging_utils.py:92] - {
+  "error_type": "RuntimeError",
+  "error_message": "Intentional error",
+  "traceback": "Traceback (most recent call last):\n  File \"X:\\Porject\\Aren\\utils\\logging_utils.py\", line 107, in wrapper\n    result = func(*args, **kwargs)\n  File \"X:\\Porject\\Aren\\test\\test_logging.py\", line 87, in error_prone_function\n    raise RuntimeError(\"Intentional error\")\nRuntimeError: Intentional error\n",
+  "context": {
+    "function": "error_prone_function",
+    "args": [],
+    "kwargs": {
+      "should_raise": true
+    }
+  }
+}
+2025-07-07 19:03:51 - aren - ERROR - [logging_utils.py:92] - {
+  "error_type": "ValueError",
+  "error_message": "Test error",
+  "traceback": "Traceback (most recent call last):\n  File \"X:\\Porject\\Aren\\test\\test_logging.py\", line 50, in test_log_error\n    raise ValueError(\"Test error\")\nValueError: Test error\n",
+  "context": {
+    "test_context": "logging_test"
+  }
+}
+2025-07-07 19:08:29 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029032B75400>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:12:05 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D27F7A2270>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:13:10 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000028B8B3E2270>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:14:15 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000235A6B42270>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:15:07 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029C079323C0>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:15:45 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002E8FED42270>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:16:27 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C2D87D2270>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:16:50 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029D53BF2270>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:17:39 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000027BEF1F23C0>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:18:18 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000204C3B22900>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:19:37 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000284DB372900>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:20:09 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C3F7642900>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:20:36 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001AEA5252900>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:21:05 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D2157F2900>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-07 19:21:35 - aren - ERROR - [translator.py:112] - Translation error: HTTPSConnectionPool(host='translate.argosopentech.com', port=443): Max retries exceeded with url: /translate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FFD7232900>: Failed to resolve 'translate.argosopentech.com' ([Errno 11001] getaddrinfo failed)"))
