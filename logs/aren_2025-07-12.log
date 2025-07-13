@@ -1,0 +1,1021 @@
+2025-07-12 00:41:44,434 - aren - INFO - New database connection established
+2025-07-12 00:41:44,451 - aren - INFO - Database connection test successful!
+2025-07-12 00:41:44,453 - aren - INFO - Database connection initialized successfully
+2025-07-12 00:47:44,250 - aren - INFO - New database connection established
+2025-07-12 00:47:44,271 - aren - INFO - Database connection test successful!
+2025-07-12 00:47:44,272 - aren - INFO - Database connection initialized successfully
+2025-07-12 00:48:58,701 - aren - INFO - New database connection established
+2025-07-12 00:48:58,714 - aren - INFO - Database connection test successful!
+2025-07-12 00:48:58,714 - aren - INFO - Database connection initialized successfully
+2025-07-12 00:48:58,890 - aren - INFO - Created memory directory: /home/ghost/Downloads/Aren/memory/user_data
+2025-07-12 00:48:58,939 - aren - INFO - Recent data loaded successfully
+2025-07-12 00:48:58,939 - aren - INFO - Context Manager initialized
+2025-07-12 00:48:58,943 - aren - INFO - System info saved: creator_name
+2025-07-12 00:48:58,955 - aren - INFO - System info saved: creator_nickname
+2025-07-12 00:48:58,962 - aren - INFO - System info saved: creator_alias
+2025-07-12 00:48:58,968 - aren - INFO - System info saved: creator_education
+2025-07-12 00:48:58,971 - aren - INFO - System info saved: creation_date
+2025-07-12 00:48:58,974 - aren - INFO - System info saved: system_name
+2025-07-12 00:48:58,976 - aren - INFO - AREN Engine initialized
+2025-07-12 00:48:58,977 - aren - INFO - Starting AREN in CLI mode
+2025-07-12 00:48:58,985 - aren - INFO - Recent data loaded successfully
+2025-07-12 00:48:58,985 - aren - INFO - Context Manager initialized
+2025-07-12 00:48:58,988 - aren - INFO - System info saved: creator_name
+2025-07-12 00:48:58,995 - aren - INFO - System info saved: creator_nickname
+2025-07-12 00:48:59,000 - aren - INFO - System info saved: creator_alias
+2025-07-12 00:48:59,008 - aren - INFO - System info saved: creator_education
+2025-07-12 00:48:59,020 - aren - INFO - System info saved: creation_date
+2025-07-12 00:48:59,026 - aren - INFO - System info saved: system_name
+2025-07-12 00:48:59,031 - aren - INFO - AREN Engine initialized
+2025-07-12 00:49:03,746 - aren - INFO - Processing user input: hello
+2025-07-12 00:49:03,747 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-12 00:49:03,747 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-12 00:49:03,747 - aren - INFO - Selected greeting: Hi there! Kya main aapki kuch madad kar sakta hoon?
+2025-07-12 00:49:03,757 - aren - INFO - Conversation saved to database
+2025-07-12 00:49:03,782 - aren - INFO - Added conversation exchange: hello...
+2025-07-12 00:49:03,782 - aren - INFO - Added action: capability_used
+2025-07-12 00:49:17,298 - aren - INFO - Processing user input: who are you
+2025-07-12 00:49:17,299 - aren - INFO - Selected 'identity' with confidence 1.00
+2025-07-12 00:49:17,299 - aren - INFO - Selected capability: identity with confidence: 1.0
+2025-07-12 00:49:17,319 - aren - INFO - Conversation saved to database
+2025-07-12 00:49:17,323 - aren - INFO - Added conversation exchange: who are you...
+2025-07-12 00:49:17,324 - aren - INFO - Added action: capability_used
+2025-07-12 00:49:42,000 - aren - INFO - Processing user input: who create you
+2025-07-12 00:49:42,022 - aren - INFO - Selected 'search' with confidence 0.10
+2025-07-12 00:49:42,022 - aren - INFO - Selected capability: search with confidence: 0.1
+2025-07-12 00:49:42,022 - aren - INFO - Processing search query: who create you
+2025-07-12 00:49:44,507 - aren - INFO - Conversation saved to database
+2025-07-12 00:49:44,509 - aren - INFO - Added conversation exchange: who create you...
+2025-07-12 00:49:44,509 - aren - INFO - Added action: capability_used
+2025-07-12 00:49:50,353 - aren - INFO - Processing user input: who made you
+2025-07-12 00:49:50,353 - aren - INFO - Selected 'identity' with confidence 0.27
+2025-07-12 00:49:50,353 - aren - INFO - Selected capability: identity with confidence: 0.26666666666666666
+2025-07-12 00:49:50,360 - aren - INFO - Conversation saved to database
+2025-07-12 00:49:50,388 - aren - INFO - Added conversation exchange: who made you...
+2025-07-12 00:49:50,388 - aren - INFO - Added action: capability_used
+2025-07-12 00:50:07,100 - aren - INFO - Processing user input: tell me about Iron man
+2025-07-12 00:50:07,100 - aren - INFO - Selected 'search' with confidence 1.00
+2025-07-12 00:50:07,100 - aren - INFO - Selected capability: search with confidence: 1.0
+2025-07-12 00:50:07,101 - aren - INFO - Processing search query: tell me about Iron man
+2025-07-12 00:50:08,438 - aren - INFO - Conversation saved to database
+2025-07-12 00:50:08,462 - aren - INFO - Added conversation exchange: tell me about Iron man...
+2025-07-12 00:50:08,462 - aren - INFO - Added action: capability_used
+2025-07-12 00:51:05,003 - aren - INFO - Processing user input: what is Quantum computer?
+2025-07-12 00:51:05,005 - aren - INFO - Selected 'search' with confidence 0.90
+2025-07-12 00:51:05,005 - aren - INFO - Selected capability: search with confidence: 0.9
+2025-07-12 00:51:05,005 - aren - INFO - Processing search query: what is Quantum computer?
+2025-07-12 00:51:06,280 - aren - INFO - Conversation saved to database
+2025-07-12 00:51:06,303 - aren - INFO - Added conversation exchange: what is Quantum computer?...
+2025-07-12 00:51:06,303 - aren - INFO - Added action: capability_used
+2025-07-12 00:51:14,320 - aren - INFO - A.R.E.N. session ended
+2025-07-12 00:51:30,682 - aren - INFO - New database connection established
+2025-07-12 00:51:30,695 - aren - INFO - Database connection test successful!
+2025-07-12 00:51:30,695 - aren - INFO - Database connection initialized successfully
+2025-07-12 00:51:30,810 - aren - INFO - Recent data loaded successfully
+2025-07-12 00:51:30,810 - aren - INFO - Context Manager initialized
+2025-07-12 00:51:30,813 - aren - INFO - System info saved: creator_name
+2025-07-12 00:51:30,839 - aren - INFO - System info saved: creator_nickname
+2025-07-12 00:51:30,846 - aren - INFO - System info saved: creator_alias
+2025-07-12 00:51:30,854 - aren - INFO - System info saved: creator_education
+2025-07-12 00:51:30,858 - aren - INFO - System info saved: creation_date
+2025-07-12 00:51:30,861 - aren - INFO - System info saved: system_name
+2025-07-12 00:51:30,864 - aren - INFO - AREN Engine initialized
+2025-07-12 00:51:30,865 - aren - INFO - Starting AREN as API server
+2025-07-12 00:51:30,865 - aren - INFO - Starting AREN API server on 0.0.0.0:5000
+2025-07-12 00:51:42,380 - aren - INFO - New database connection established
+2025-07-12 00:51:42,394 - aren - INFO - Database connection test successful!
+2025-07-12 00:51:42,395 - aren - INFO - Database connection initialized successfully
+2025-07-12 00:51:42,518 - aren - INFO - Recent data loaded successfully
+2025-07-12 00:51:42,518 - aren - INFO - Context Manager initialized
+2025-07-12 00:51:42,524 - aren - INFO - System info saved: creator_name
+2025-07-12 00:51:42,534 - aren - INFO - System info saved: creator_nickname
+2025-07-12 00:51:42,542 - aren - INFO - System info saved: creator_alias
+2025-07-12 00:51:42,549 - aren - INFO - System info saved: creator_education
+2025-07-12 00:51:42,560 - aren - INFO - System info saved: creation_date
+2025-07-12 00:51:42,567 - aren - INFO - System info saved: system_name
+2025-07-12 00:51:42,574 - aren - INFO - AREN Engine initialized
+2025-07-12 00:51:42,577 - aren - ERROR - Invalid port number: -X
+2025-07-12 00:52:09,073 - aren - INFO - New database connection established
+2025-07-12 00:52:09,103 - aren - INFO - Database connection test successful!
+2025-07-12 00:52:09,104 - aren - INFO - Database connection initialized successfully
+2025-07-12 00:52:09,188 - aren - INFO - Recent data loaded successfully
+2025-07-12 00:52:09,188 - aren - INFO - Context Manager initialized
+2025-07-12 00:52:09,198 - aren - INFO - System info saved: creator_name
+2025-07-12 00:52:09,228 - aren - INFO - System info saved: creator_nickname
+2025-07-12 00:52:09,243 - aren - INFO - System info saved: creator_alias
+2025-07-12 00:52:09,264 - aren - INFO - System info saved: creator_education
+2025-07-12 00:52:09,273 - aren - INFO - System info saved: creation_date
+2025-07-12 00:52:09,281 - aren - INFO - System info saved: system_name
+2025-07-12 00:52:09,299 - aren - INFO - AREN Engine initialized
+2025-07-12 00:52:09,300 - aren - INFO - Starting AREN API server on 0.0.0.0:5000
+2025-07-12 00:52:13,758 - aren - INFO - Processing user input: test
+2025-07-12 00:52:13,758 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 00:52:13,769 - aren - INFO - Conversation saved to database
+2025-07-12 00:52:13,775 - aren - INFO - Added conversation exchange: test...
+2025-07-12 00:52:13,775 - aren - INFO - Added action: capability_used
+2025-07-12 00:53:07,593 - aren - INFO - API request from user test_user: Hello, how are you?
+2025-07-12 00:53:07,594 - aren - INFO - Processing user input: Hello, how are you?
+2025-07-12 00:53:07,594 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-12 00:53:07,594 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-12 00:53:07,594 - aren - INFO - Selected greeting: Hi there! Kya main aapki kuch madad kar sakta hoon?
+2025-07-12 00:53:07,601 - aren - INFO - Conversation saved to database
+2025-07-12 00:53:07,611 - aren - INFO - Added conversation exchange: Hello, how are you?...
+2025-07-12 00:53:07,611 - aren - INFO - Added action: capability_used
+2025-07-12 00:56:10,931 - aren - INFO - Processing user input: test
+2025-07-12 00:56:10,931 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 00:56:10,935 - aren - INFO - Conversation saved to database
+2025-07-12 00:56:10,948 - aren - INFO - Added conversation exchange: test...
+2025-07-12 00:56:10,949 - aren - INFO - Added action: capability_used
+2025-07-12 01:01:49,750 - aren - INFO - Processing user input: test
+2025-07-12 01:01:49,750 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:01:49,760 - aren - INFO - Conversation saved to database
+2025-07-12 01:01:49,769 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:01:49,769 - aren - INFO - Added action: capability_used
+2025-07-12 01:06:06,182 - aren - INFO - New database connection established
+2025-07-12 01:06:06,265 - aren - INFO - Database connection test successful!
+2025-07-12 01:06:06,267 - aren - INFO - Database connection initialized successfully
+2025-07-12 01:06:06,410 - aren - INFO - Recent data loaded successfully
+2025-07-12 01:06:06,412 - aren - INFO - Context Manager initialized
+2025-07-12 01:06:06,420 - aren - INFO - System info saved: creator_name
+2025-07-12 01:06:06,432 - aren - INFO - System info saved: creator_nickname
+2025-07-12 01:06:06,449 - aren - INFO - System info saved: creator_alias
+2025-07-12 01:06:06,466 - aren - INFO - System info saved: creator_education
+2025-07-12 01:06:06,485 - aren - INFO - System info saved: creation_date
+2025-07-12 01:06:06,501 - aren - INFO - System info saved: system_name
+2025-07-12 01:06:06,510 - aren - INFO - AREN Engine initialized
+2025-07-12 01:06:06,513 - aren - INFO - Starting AREN API server on 0.0.0.0:5000
+2025-07-12 01:06:12,856 - aren - INFO - Processing user input: test
+2025-07-12 01:06:12,857 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:06:12,871 - aren - INFO - Conversation saved to database
+2025-07-12 01:06:12,882 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:06:12,883 - aren - INFO - Added action: capability_used
+2025-07-12 01:06:40,510 - aren - INFO - Processing user input: test
+2025-07-12 01:06:40,514 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:06:40,540 - aren - INFO - Conversation saved to database
+2025-07-12 01:06:40,568 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:06:40,570 - aren - INFO - Added action: capability_used
+2025-07-12 01:06:49,628 - aren - INFO - Processing user input: test
+2025-07-12 01:06:49,632 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:06:49,644 - aren - INFO - Conversation saved to database
+2025-07-12 01:06:49,685 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:06:49,689 - aren - INFO - Added action: capability_used
+2025-07-12 01:06:49,733 - aren - INFO - API request from user user123: Hello aren
+2025-07-12 01:06:49,734 - aren - INFO - Processing user input: Hello aren
+2025-07-12 01:06:49,734 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-12 01:06:49,734 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-12 01:06:49,735 - aren - INFO - Selected greeting: Hello! Working late tonight?
+2025-07-12 01:06:49,768 - aren - INFO - Conversation saved to database
+2025-07-12 01:06:49,786 - aren - INFO - Added conversation exchange: Hello aren...
+2025-07-12 01:06:49,786 - aren - INFO - Added action: capability_used
+2025-07-12 01:07:00,108 - aren - INFO - Processing user input: test
+2025-07-12 01:07:00,109 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:07:00,130 - aren - INFO - Conversation saved to database
+2025-07-12 01:07:00,156 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:07:00,156 - aren - INFO - Added action: capability_used
+2025-07-12 01:07:42,792 - aren - INFO - Processing user input: test
+2025-07-12 01:07:42,792 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:07:42,813 - aren - INFO - Conversation saved to database
+2025-07-12 01:07:42,824 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:07:42,827 - aren - INFO - Added action: capability_used
+2025-07-12 01:09:08,396 - aren - INFO - Processing user input: test
+2025-07-12 01:09:08,397 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:09:08,410 - aren - INFO - Conversation saved to database
+2025-07-12 01:09:08,415 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:09:08,415 - aren - INFO - Added action: capability_used
+2025-07-12 01:09:28,940 - aren - INFO - Processing user input: test
+2025-07-12 01:09:28,941 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:09:28,947 - aren - INFO - Conversation saved to database
+2025-07-12 01:09:28,954 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:09:28,955 - aren - INFO - Added action: capability_used
+2025-07-12 01:09:28,988 - aren - INFO - API request from user user123: Hello aren
+2025-07-12 01:09:28,988 - aren - INFO - Processing user input: Hello aren
+2025-07-12 01:09:28,988 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-12 01:09:28,988 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-12 01:09:28,988 - aren - INFO - Selected greeting: Hello! Working late tonight?
+2025-07-12 01:09:28,999 - aren - INFO - Conversation saved to database
+2025-07-12 01:09:29,010 - aren - INFO - Added conversation exchange: Hello aren...
+2025-07-12 01:09:29,011 - aren - INFO - Added action: capability_used
+2025-07-12 01:09:35,358 - aren - INFO - Processing user input: test
+2025-07-12 01:09:35,362 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:09:35,420 - aren - INFO - Conversation saved to database
+2025-07-12 01:09:35,457 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:09:35,460 - aren - INFO - Added action: capability_used
+2025-07-12 01:09:35,506 - aren - INFO - API request from user user123: How are you
+2025-07-12 01:09:35,519 - aren - INFO - Processing user input: How are you
+2025-07-12 01:09:35,521 - aren - INFO - Selected 'search' with confidence 0.10
+2025-07-12 01:09:35,521 - aren - INFO - Selected capability: search with confidence: 0.1
+2025-07-12 01:09:35,521 - aren - INFO - Processing search query: How are you
+2025-07-12 01:09:37,141 - aren - INFO - Conversation saved to database
+2025-07-12 01:09:37,158 - aren - INFO - Added conversation exchange: How are you...
+2025-07-12 01:09:37,160 - aren - INFO - Added action: capability_used
+2025-07-12 01:12:22,617 - aren - INFO - Processing user input: test
+2025-07-12 01:12:22,617 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:12:22,644 - aren - INFO - Conversation saved to database
+2025-07-12 01:12:22,680 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:12:22,682 - aren - INFO - Added action: capability_used
+2025-07-12 01:12:22,729 - aren - INFO - API request from user user123: Open terminal
+2025-07-12 01:12:22,737 - aren - INFO - Processing user input: Open terminal
+2025-07-12 01:12:22,738 - aren - INFO - Selected 'launch_app' with confidence 1.00
+2025-07-12 01:12:22,738 - aren - INFO - Selected capability: launch_app with confidence: 1.0
+2025-07-12 01:12:22,740 - aren - INFO - Attempting to launch application: open terminal
+2025-07-12 01:12:22,740 - aren - WARNING - Could not recognize application: open terminal
+2025-07-12 01:12:22,773 - aren - INFO - Conversation saved to database
+2025-07-12 01:12:22,797 - aren - INFO - Added conversation exchange: Open terminal...
+2025-07-12 01:12:22,797 - aren - INFO - Added action: capability_used
+2025-07-12 01:14:03,291 - aren - INFO - Processing user input: test
+2025-07-12 01:14:03,292 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:14:03,303 - aren - INFO - Conversation saved to database
+2025-07-12 01:14:03,314 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:14:03,317 - aren - INFO - Added action: capability_used
+2025-07-12 01:14:03,348 - aren - INFO - API request from user user123: Open firefox
+2025-07-12 01:14:03,348 - aren - INFO - Processing user input: Open firefox
+2025-07-12 01:14:03,348 - aren - INFO - Selected 'launch_app' with confidence 1.00
+2025-07-12 01:14:03,348 - aren - INFO - Selected capability: launch_app with confidence: 1.0
+2025-07-12 01:14:03,348 - aren - INFO - Attempting to launch application: open firefox
+2025-07-12 01:14:03,359 - aren - INFO - Successfully launched firefox
+2025-07-12 01:14:03,422 - aren - INFO - Conversation saved to database
+2025-07-12 01:14:03,436 - aren - INFO - Added conversation exchange: Open firefox...
+2025-07-12 01:14:03,437 - aren - INFO - Added action: capability_used
+2025-07-12 01:14:36,487 - aren - INFO - Processing user input: test
+2025-07-12 01:14:36,487 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:14:36,616 - aren - INFO - Conversation saved to database
+2025-07-12 01:14:36,657 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:14:36,657 - aren - INFO - Added action: capability_used
+2025-07-12 01:14:37,056 - aren - INFO - API request from user user123: Open text editor 
+2025-07-12 01:14:37,056 - aren - INFO - Processing user input: Open text editor 
+2025-07-12 01:14:37,056 - aren - INFO - Selected 'launch_app' with confidence 1.00
+2025-07-12 01:14:37,057 - aren - INFO - Selected capability: launch_app with confidence: 1.0
+2025-07-12 01:14:37,057 - aren - INFO - Attempting to launch application: open text editor 
+2025-07-12 01:14:37,057 - aren - WARNING - Could not recognize application: open text editor 
+2025-07-12 01:14:37,134 - aren - INFO - Conversation saved to database
+2025-07-12 01:14:37,174 - aren - INFO - Added conversation exchange: Open text editor ...
+2025-07-12 01:14:37,174 - aren - INFO - Added action: capability_used
+2025-07-12 01:14:54,100 - aren - INFO - Processing user input: test
+2025-07-12 01:14:54,101 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:14:54,116 - aren - INFO - Conversation saved to database
+2025-07-12 01:14:54,136 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:14:54,137 - aren - INFO - Added action: capability_used
+2025-07-12 01:14:54,169 - aren - INFO - API request from user user123: Open commix
+2025-07-12 01:14:54,169 - aren - INFO - Processing user input: Open commix
+2025-07-12 01:14:54,169 - aren - INFO - Selected 'launch_app' with confidence 1.00
+2025-07-12 01:14:54,169 - aren - INFO - Selected capability: launch_app with confidence: 1.0
+2025-07-12 01:14:54,169 - aren - INFO - Attempting to launch application: open commix
+2025-07-12 01:14:54,169 - aren - WARNING - Could not recognize application: open commix
+2025-07-12 01:14:54,200 - aren - INFO - Conversation saved to database
+2025-07-12 01:14:54,219 - aren - INFO - Added conversation exchange: Open commix...
+2025-07-12 01:14:54,220 - aren - INFO - Added action: capability_used
+2025-07-12 01:15:35,526 - aren - INFO - Processing user input: test
+2025-07-12 01:15:35,538 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:15:35,578 - aren - INFO - Conversation saved to database
+2025-07-12 01:15:35,589 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:15:35,592 - aren - INFO - Added action: capability_used
+2025-07-12 01:15:45,978 - aren - INFO - Processing user input: test
+2025-07-12 01:15:45,981 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:15:46,034 - aren - INFO - Conversation saved to database
+2025-07-12 01:15:46,055 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:15:46,055 - aren - INFO - Added action: capability_used
+2025-07-12 01:15:51,957 - aren - INFO - Processing user input: test
+2025-07-12 01:15:51,958 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:15:51,991 - aren - INFO - Conversation saved to database
+2025-07-12 01:15:52,009 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:15:52,010 - aren - INFO - Added action: capability_used
+2025-07-12 01:15:52,067 - aren - INFO - API request from user user123: This is a simulated voice input for demo purposes
+2025-07-12 01:15:52,072 - aren - INFO - Processing user input: This is a simulated voice input for demo purposes
+2025-07-12 01:15:52,072 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:15:52,092 - aren - INFO - Conversation saved to database
+2025-07-12 01:15:52,113 - aren - INFO - Added conversation exchange: This is a simulated voice input for demo purposes...
+2025-07-12 01:15:52,113 - aren - INFO - Added action: capability_used
+2025-07-12 01:15:57,250 - aren - INFO - Processing user input: test
+2025-07-12 01:15:57,259 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:15:57,272 - aren - INFO - Conversation saved to database
+2025-07-12 01:15:57,279 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:15:57,279 - aren - INFO - Added action: capability_used
+2025-07-12 01:15:57,340 - aren - INFO - API request from user user123: This is a simulated voice input for demo purposes
+2025-07-12 01:15:57,341 - aren - INFO - Processing user input: This is a simulated voice input for demo purposes
+2025-07-12 01:15:57,341 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:15:57,361 - aren - INFO - Conversation saved to database
+2025-07-12 01:15:57,374 - aren - INFO - Added conversation exchange: This is a simulated voice input for demo purposes...
+2025-07-12 01:15:57,374 - aren - INFO - Added action: capability_used
+2025-07-12 01:16:04,139 - aren - INFO - Processing user input: test
+2025-07-12 01:16:04,142 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:16:04,173 - aren - INFO - Conversation saved to database
+2025-07-12 01:16:04,182 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:16:04,185 - aren - INFO - Added action: capability_used
+2025-07-12 01:16:04,216 - aren - INFO - API request from user user123: This is a simulated voice input for demo purposes
+2025-07-12 01:16:04,216 - aren - INFO - Processing user input: This is a simulated voice input for demo purposes
+2025-07-12 01:16:04,216 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:16:04,224 - aren - INFO - Conversation saved to database
+2025-07-12 01:16:04,239 - aren - INFO - Added conversation exchange: This is a simulated voice input for demo purposes...
+2025-07-12 01:16:04,239 - aren - INFO - Added action: capability_used
+2025-07-12 01:16:48,150 - aren - INFO - Processing user input: test
+2025-07-12 01:16:48,150 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:16:48,195 - aren - INFO - Conversation saved to database
+2025-07-12 01:16:48,220 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:16:48,222 - aren - INFO - Added action: capability_used
+2025-07-12 01:16:54,360 - aren - INFO - Processing user input: test
+2025-07-12 01:16:54,360 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:16:54,378 - aren - INFO - Conversation saved to database
+2025-07-12 01:16:54,385 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:16:54,385 - aren - INFO - Added action: capability_used
+2025-07-12 01:16:54,485 - aren - INFO - API request from user user123: This is a simulated voice input for demo purposes
+2025-07-12 01:16:54,488 - aren - INFO - Processing user input: This is a simulated voice input for demo purposes
+2025-07-12 01:16:54,489 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:16:54,512 - aren - INFO - Conversation saved to database
+2025-07-12 01:16:54,526 - aren - INFO - Added conversation exchange: This is a simulated voice input for demo purposes...
+2025-07-12 01:16:54,526 - aren - INFO - Added action: capability_used
+2025-07-12 01:20:36,330 - aren - INFO - Processing user input: test
+2025-07-12 01:20:36,335 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:20:36,378 - aren - INFO - Conversation saved to database
+2025-07-12 01:20:36,482 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:20:36,484 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:24,027 - aren - INFO - Processing user input: test
+2025-07-12 01:21:24,027 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:21:24,038 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:24,079 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:21:24,081 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:28,735 - aren - INFO - Processing user input: test
+2025-07-12 01:21:28,736 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:21:28,762 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:28,766 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:21:28,766 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:28,797 - aren - INFO - API request from user user123: What time is it?
+2025-07-12 01:21:28,799 - aren - INFO - Processing user input: What time is it?
+2025-07-12 01:21:28,800 - aren - INFO - Selected 'time' with confidence 0.90
+2025-07-12 01:21:28,800 - aren - INFO - Selected capability: time with confidence: 0.9
+2025-07-12 01:21:28,812 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:28,821 - aren - INFO - Added conversation exchange: What time is it?...
+2025-07-12 01:21:28,821 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:29,654 - aren - INFO - Processing user input: test
+2025-07-12 01:21:29,655 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:21:29,661 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:29,689 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:21:29,689 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:29,722 - aren - INFO - API request from user user123: What time is it?
+2025-07-12 01:21:29,722 - aren - INFO - Processing user input: What time is it?
+2025-07-12 01:21:29,722 - aren - INFO - Selected 'time' with confidence 0.90
+2025-07-12 01:21:29,722 - aren - INFO - Selected capability: time with confidence: 0.9
+2025-07-12 01:21:29,754 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:29,774 - aren - INFO - Added conversation exchange: What time is it?...
+2025-07-12 01:21:29,776 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:41,134 - aren - INFO - Processing user input: test
+2025-07-12 01:21:41,135 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:21:41,140 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:41,164 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:21:41,164 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:41,194 - aren - INFO - API request from user user123: Listening...
+2025-07-12 01:21:41,195 - aren - INFO - Processing user input: Listening...
+2025-07-12 01:21:41,195 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:21:41,233 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:41,264 - aren - INFO - Added conversation exchange: Listening......
+2025-07-12 01:21:41,265 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:42,768 - aren - INFO - Processing user input: test
+2025-07-12 01:21:42,769 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:21:42,776 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:42,800 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:21:42,801 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:42,970 - aren - INFO - API request from user user123: What's the weather like today?
+2025-07-12 01:21:42,971 - aren - INFO - Processing user input: What's the weather like today?
+2025-07-12 01:21:42,972 - aren - INFO - Selected 'weather' with confidence 1.00
+2025-07-12 01:21:42,972 - aren - INFO - Selected capability: weather with confidence: 1.0
+2025-07-12 01:21:42,972 - aren - INFO - Generated mock weather for like
+2025-07-12 01:21:42,987 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:43,014 - aren - INFO - Added conversation exchange: What's the weather like today?...
+2025-07-12 01:21:43,015 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:55,520 - aren - INFO - Processing user input: test
+2025-07-12 01:21:55,520 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:21:55,528 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:55,534 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:21:55,535 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:55,563 - aren - INFO - API request from user user123: What's the weather like today?
+2025-07-12 01:21:55,563 - aren - INFO - Processing user input: What's the weather like today?
+2025-07-12 01:21:55,565 - aren - INFO - Selected 'weather' with confidence 1.00
+2025-07-12 01:21:55,565 - aren - INFO - Selected capability: weather with confidence: 1.0
+2025-07-12 01:21:55,565 - aren - INFO - Generated mock weather for like
+2025-07-12 01:21:55,579 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:55,593 - aren - INFO - Added conversation exchange: What's the weather like today?...
+2025-07-12 01:21:55,593 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:56,148 - aren - INFO - Processing user input: test
+2025-07-12 01:21:56,148 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:21:56,157 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:56,166 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:21:56,166 - aren - INFO - Added action: capability_used
+2025-07-12 01:21:56,212 - aren - INFO - API request from user user123: What's the weather like today?
+2025-07-12 01:21:56,216 - aren - INFO - Processing user input: What's the weather like today?
+2025-07-12 01:21:56,217 - aren - INFO - Selected 'weather' with confidence 1.00
+2025-07-12 01:21:56,217 - aren - INFO - Selected capability: weather with confidence: 1.0
+2025-07-12 01:21:56,217 - aren - INFO - Generated mock weather for like
+2025-07-12 01:21:56,240 - aren - INFO - Conversation saved to database
+2025-07-12 01:21:56,253 - aren - INFO - Added conversation exchange: What's the weather like today?...
+2025-07-12 01:21:56,256 - aren - INFO - Added action: capability_used
+2025-07-12 01:22:13,577 - aren - INFO - Processing user input: test
+2025-07-12 01:22:13,577 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:22:13,584 - aren - INFO - Conversation saved to database
+2025-07-12 01:22:13,597 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:22:13,597 - aren - INFO - Added action: capability_used
+2025-07-12 01:22:13,612 - aren - INFO - Processing user input: test
+2025-07-12 01:22:13,613 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:22:13,631 - aren - INFO - Conversation saved to database
+2025-07-12 01:22:13,646 - aren - INFO - API request from user user123: What can you help me with?
+2025-07-12 01:22:13,653 - aren - INFO - Processing user input: What can you help me with?
+2025-07-12 01:22:13,654 - aren - INFO - Selected 'search' with confidence 0.10
+2025-07-12 01:22:13,654 - aren - INFO - Selected capability: search with confidence: 0.1
+2025-07-12 01:22:13,654 - aren - INFO - Processing search query: What can you help me with?
+2025-07-12 01:22:13,650 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:22:13,670 - aren - INFO - Added action: capability_used
+2025-07-12 01:22:13,696 - aren - INFO - API request from user user123: What can you help me with?
+2025-07-12 01:22:13,696 - aren - INFO - Processing user input: What can you help me with?
+2025-07-12 01:22:13,699 - aren - INFO - Selected 'search' with confidence 0.10
+2025-07-12 01:22:13,700 - aren - INFO - Selected capability: search with confidence: 0.1
+2025-07-12 01:22:13,702 - aren - INFO - Processing search query: What can you help me with?
+2025-07-12 01:22:14,637 - aren - INFO - Conversation saved to database
+2025-07-12 01:22:14,663 - aren - INFO - Added conversation exchange: What can you help me with?...
+2025-07-12 01:22:14,663 - aren - INFO - Added action: capability_used
+2025-07-12 01:22:14,725 - aren - INFO - Conversation saved to database
+2025-07-12 01:22:14,736 - aren - INFO - Added conversation exchange: What can you help me with?...
+2025-07-12 01:22:14,737 - aren - INFO - Added action: capability_used
+2025-07-12 01:23:54,471 - aren - INFO - Processing user input: test
+2025-07-12 01:23:54,472 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:23:54,478 - aren - INFO - Conversation saved to database
+2025-07-12 01:23:54,483 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:23:54,483 - aren - INFO - Added action: capability_used
+2025-07-12 01:23:54,550 - aren - INFO - API request from user user123: Open firefox
+2025-07-12 01:23:54,550 - aren - INFO - Processing user input: Open firefox
+2025-07-12 01:23:54,552 - aren - INFO - Selected 'launch_app' with confidence 1.00
+2025-07-12 01:23:54,552 - aren - INFO - Selected capability: launch_app with confidence: 1.0
+2025-07-12 01:23:54,552 - aren - INFO - Attempting to launch application: open firefox
+2025-07-12 01:23:54,553 - aren - INFO - Successfully launched firefox
+2025-07-12 01:23:54,564 - aren - INFO - Conversation saved to database
+2025-07-12 01:23:54,580 - aren - INFO - Added conversation exchange: Open firefox...
+2025-07-12 01:23:54,580 - aren - INFO - Added action: capability_used
+2025-07-12 01:24:53,206 - aren - INFO - Processing user input: test
+2025-07-12 01:24:53,207 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:24:53,212 - aren - INFO - Conversation saved to database
+2025-07-12 01:24:53,227 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:24:53,227 - aren - INFO - Added action: capability_used
+2025-07-12 01:24:53,252 - aren - INFO - API request from user user123: Who is the prime minister of India?
+2025-07-12 01:24:53,254 - aren - INFO - Processing user input: Who is the prime minister of India?
+2025-07-12 01:24:53,255 - aren - INFO - Selected 'search' with confidence 0.90
+2025-07-12 01:24:53,255 - aren - INFO - Selected capability: search with confidence: 0.9
+2025-07-12 01:24:53,255 - aren - INFO - Processing search query: Who is the prime minister of India?
+2025-07-12 01:24:54,740 - aren - INFO - Conversation saved to database
+2025-07-12 01:24:54,749 - aren - INFO - Added conversation exchange: Who is the prime minister of India?...
+2025-07-12 01:24:54,750 - aren - INFO - Added action: capability_used
+2025-07-12 01:32:16,625 - aren - INFO - Processing user input: test
+2025-07-12 01:32:16,643 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:32:16,742 - aren - INFO - Conversation saved to database
+2025-07-12 01:32:16,788 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:32:16,799 - aren - INFO - Added action: capability_used
+2025-07-12 01:39:17,747 - aren - INFO - Processing user input: test
+2025-07-12 01:39:17,748 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:39:17,755 - aren - INFO - Conversation saved to database
+2025-07-12 01:39:17,761 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:39:17,761 - aren - INFO - Added action: capability_used
+2025-07-12 01:39:32,109 - aren - INFO - Processing user input: test
+2025-07-12 01:39:32,110 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:39:32,120 - aren - INFO - Conversation saved to database
+2025-07-12 01:39:32,130 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:39:32,130 - aren - INFO - Added action: capability_used
+2025-07-12 01:39:32,170 - aren - INFO - API request from user user123: How can you help me?
+2025-07-12 01:39:32,170 - aren - INFO - Processing user input: How can you help me?
+2025-07-12 01:39:32,171 - aren - INFO - Selected 'search' with confidence 0.10
+2025-07-12 01:39:32,171 - aren - INFO - Selected capability: search with confidence: 0.1
+2025-07-12 01:39:32,171 - aren - INFO - Processing search query: How can you help me?
+2025-07-12 01:39:33,684 - aren - INFO - Conversation saved to database
+2025-07-12 01:39:33,695 - aren - INFO - Added conversation exchange: How can you help me?...
+2025-07-12 01:39:33,697 - aren - INFO - Added action: capability_used
+2025-07-12 01:39:41,325 - aren - INFO - Processing user input: test
+2025-07-12 01:39:41,325 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:39:41,335 - aren - INFO - Conversation saved to database
+2025-07-12 01:39:41,340 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:39:41,343 - aren - INFO - Added action: capability_used
+2025-07-12 01:39:41,382 - aren - INFO - API request from user user123: Tell me a joke
+2025-07-12 01:39:41,382 - aren - INFO - Processing user input: Tell me a joke
+2025-07-12 01:39:41,382 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-07-12 01:39:41,382 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-07-12 01:39:41,382 - aren - INFO - Selected joke: Why don't robots get scared? Kyunki unke paas dil nahi hota!
+2025-07-12 01:39:41,405 - aren - INFO - Conversation saved to database
+2025-07-12 01:39:41,413 - aren - INFO - Added conversation exchange: Tell me a joke...
+2025-07-12 01:39:41,413 - aren - INFO - Added action: capability_used
+2025-07-12 01:39:45,545 - aren - INFO - Processing user input: test
+2025-07-12 01:39:45,546 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:39:45,558 - aren - INFO - Conversation saved to database
+2025-07-12 01:39:45,571 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:39:45,571 - aren - INFO - Added action: capability_used
+2025-07-12 01:39:45,601 - aren - INFO - API request from user user123: Tell me a joke
+2025-07-12 01:39:45,601 - aren - INFO - Processing user input: Tell me a joke
+2025-07-12 01:39:45,601 - aren - INFO - Selected 'joke' with confidence 1.00
+2025-07-12 01:39:45,601 - aren - INFO - Selected capability: joke with confidence: 1.0
+2025-07-12 01:39:45,601 - aren - INFO - Selected joke: Why was the computer cold? It left its Windows open!
+2025-07-12 01:39:45,607 - aren - INFO - Conversation saved to database
+2025-07-12 01:39:45,611 - aren - INFO - Added conversation exchange: Tell me a joke...
+2025-07-12 01:39:45,611 - aren - INFO - Added action: capability_used
+2025-07-12 01:39:56,786 - aren - INFO - Processing user input: test
+2025-07-12 01:39:56,786 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:39:56,792 - aren - INFO - Conversation saved to database
+2025-07-12 01:39:56,802 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:39:56,803 - aren - INFO - Added action: capability_used
+2025-07-12 01:39:56,829 - aren - INFO - API request from user user123: Who are you?
+2025-07-12 01:39:56,830 - aren - INFO - Processing user input: Who are you?
+2025-07-12 01:39:56,831 - aren - INFO - Selected 'identity' with confidence 1.00
+2025-07-12 01:39:56,831 - aren - INFO - Selected capability: identity with confidence: 1.0
+2025-07-12 01:39:56,859 - aren - INFO - Conversation saved to database
+2025-07-12 01:39:56,865 - aren - INFO - Added conversation exchange: Who are you?...
+2025-07-12 01:39:56,865 - aren - INFO - Added action: capability_used
+2025-07-12 01:40:36,302 - aren - INFO - Processing user input: test
+2025-07-12 01:40:36,302 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:40:36,311 - aren - INFO - Conversation saved to database
+2025-07-12 01:40:36,334 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:40:36,334 - aren - INFO - Added action: capability_used
+2025-07-12 01:40:39,446 - aren - INFO - Processing user input: test
+2025-07-12 01:40:39,447 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:40:39,454 - aren - INFO - Conversation saved to database
+2025-07-12 01:40:39,471 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:40:39,472 - aren - INFO - Added action: capability_used
+2025-07-12 01:40:39,497 - aren - INFO - API request from user user123: Listening...
+2025-07-12 01:40:39,497 - aren - INFO - Processing user input: Listening...
+2025-07-12 01:40:39,497 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:40:39,504 - aren - INFO - Conversation saved to database
+2025-07-12 01:40:39,508 - aren - INFO - Added conversation exchange: Listening......
+2025-07-12 01:40:39,508 - aren - INFO - Added action: capability_used
+2025-07-12 01:40:41,751 - aren - INFO - Processing user input: test
+2025-07-12 01:40:41,751 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 01:40:41,757 - aren - INFO - Conversation saved to database
+2025-07-12 01:40:41,768 - aren - INFO - Added conversation exchange: test...
+2025-07-12 01:40:41,768 - aren - INFO - Added action: capability_used
+2025-07-12 01:40:41,853 - aren - INFO - API request from user user123: What's the weather like today?
+2025-07-12 01:40:41,862 - aren - INFO - Processing user input: What's the weather like today?
+2025-07-12 01:40:41,862 - aren - INFO - Selected 'weather' with confidence 1.00
+2025-07-12 01:40:41,866 - aren - INFO - Selected capability: weather with confidence: 1.0
+2025-07-12 01:40:41,868 - aren - INFO - Generated mock weather for like
+2025-07-12 01:40:41,896 - aren - INFO - Conversation saved to database
+2025-07-12 01:40:41,915 - aren - INFO - Added conversation exchange: What's the weather like today?...
+2025-07-12 01:40:41,915 - aren - INFO - Added action: capability_used
+2025-07-12 09:55:11,948 - aren - INFO - New database connection established
+2025-07-12 09:55:11,966 - aren - INFO - Database connection test successful!
+2025-07-12 09:55:11,967 - aren - INFO - Database connection initialized successfully
+2025-07-12 09:55:12,028 - aren - INFO - Recent data loaded successfully
+2025-07-12 09:55:12,028 - aren - INFO - Context Manager initialized
+2025-07-12 09:55:12,033 - aren - INFO - System info saved: creator_name
+2025-07-12 09:55:12,043 - aren - INFO - System info saved: creator_nickname
+2025-07-12 09:55:12,048 - aren - INFO - System info saved: creator_alias
+2025-07-12 09:55:12,055 - aren - INFO - System info saved: creator_education
+2025-07-12 09:55:12,064 - aren - INFO - System info saved: creation_date
+2025-07-12 09:55:12,073 - aren - INFO - System info saved: system_name
+2025-07-12 09:55:12,079 - aren - INFO - AREN Engine initialized
+2025-07-12 09:55:12,082 - aren - ERROR - Invalid port number: --debug
+2025-07-12 09:55:12,082 - aren - INFO - Starting AREN API server on 0.0.0.0:5000
+2025-07-12 09:55:21,138 - aren - INFO - Processing user input: test
+2025-07-12 09:55:21,139 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 09:55:21,144 - aren - INFO - Conversation saved to database
+2025-07-12 09:55:21,171 - aren - INFO - Added conversation exchange: test...
+2025-07-12 09:55:21,171 - aren - INFO - Added action: capability_used
+2025-07-12 09:55:33,064 - aren - INFO - Processing user input: test
+2025-07-12 09:55:33,064 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 09:55:33,068 - aren - INFO - Conversation saved to database
+2025-07-12 09:55:33,073 - aren - INFO - Added conversation exchange: test...
+2025-07-12 09:55:33,073 - aren - INFO - Added action: capability_used
+2025-07-12 09:55:42,783 - aren - INFO - Processing user input: test
+2025-07-12 09:55:42,785 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 09:55:42,791 - aren - INFO - Conversation saved to database
+2025-07-12 09:55:42,815 - aren - INFO - Added conversation exchange: test...
+2025-07-12 09:55:42,815 - aren - INFO - Added action: capability_used
+2025-07-12 09:59:52,700 - aren - INFO - Processing user input: test
+2025-07-12 09:59:52,700 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 09:59:52,708 - aren - INFO - Conversation saved to database
+2025-07-12 09:59:52,731 - aren - INFO - Added conversation exchange: test...
+2025-07-12 09:59:52,731 - aren - INFO - Added action: capability_used
+2025-07-12 09:59:52,761 - aren - INFO - API request from user user123: Hello
+2025-07-12 09:59:52,761 - aren - INFO - Processing user input: Hello
+2025-07-12 09:59:52,761 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-12 09:59:52,761 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-12 09:59:52,761 - aren - INFO - Selected greeting: Suprabhat! Aaj main aapki kya madad kar sakta hoon?
+2025-07-12 09:59:52,772 - aren - INFO - Conversation saved to database
+2025-07-12 09:59:52,780 - aren - INFO - Added conversation exchange: Hello...
+2025-07-12 09:59:52,780 - aren - INFO - Added action: capability_used
+2025-07-12 10:04:21,492 - aren - INFO - Processing user input: test
+2025-07-12 10:04:21,493 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:04:21,502 - aren - INFO - Conversation saved to database
+2025-07-12 10:04:21,532 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:04:21,532 - aren - INFO - Added action: capability_used
+2025-07-12 10:07:53,713 - aren - INFO - Processing user input: test
+2025-07-12 10:07:53,714 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:07:53,718 - aren - INFO - Conversation saved to database
+2025-07-12 10:07:53,741 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:07:53,741 - aren - INFO - Added action: capability_used
+2025-07-12 10:09:19,818 - aren - INFO - Processing user input: test
+2025-07-12 10:09:19,819 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:09:19,825 - aren - INFO - Conversation saved to database
+2025-07-12 10:09:19,858 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:09:19,858 - aren - INFO - Added action: capability_used
+2025-07-12 10:09:20,243 - aren - INFO - API request from user user123: How are you
+2025-07-12 10:09:20,244 - aren - INFO - Processing user input: How are you
+2025-07-12 10:09:20,244 - aren - INFO - Selected 'search' with confidence 0.10
+2025-07-12 10:09:20,244 - aren - INFO - Selected capability: search with confidence: 0.1
+2025-07-12 10:09:20,245 - aren - INFO - Processing search query: How are you
+2025-07-12 10:09:21,462 - aren - INFO - Conversation saved to database
+2025-07-12 10:09:21,466 - aren - INFO - Added conversation exchange: How are you...
+2025-07-12 10:09:21,466 - aren - INFO - Added action: capability_used
+2025-07-12 10:10:43,727 - aren - INFO - Processing user input: test
+2025-07-12 10:10:43,730 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:10:43,746 - aren - INFO - Conversation saved to database
+2025-07-12 10:10:43,772 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:10:43,773 - aren - INFO - Added action: capability_used
+2025-07-12 10:13:01,958 - aren - INFO - Processing user input: test
+2025-07-12 10:13:01,961 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:13:01,977 - aren - INFO - Conversation saved to database
+2025-07-12 10:13:01,986 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:13:01,988 - aren - INFO - Added action: capability_used
+2025-07-12 10:14:27,137 - aren - INFO - Processing user input: test
+2025-07-12 10:14:27,137 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:14:27,150 - aren - INFO - Conversation saved to database
+2025-07-12 10:14:27,179 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:14:27,181 - aren - INFO - Added action: capability_used
+2025-07-12 10:15:34,626 - aren - INFO - Processing user input: test
+2025-07-12 10:15:34,627 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:15:34,639 - aren - INFO - Conversation saved to database
+2025-07-12 10:15:34,666 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:15:34,666 - aren - INFO - Added action: capability_used
+2025-07-12 10:16:26,164 - aren - INFO - Processing user input: test
+2025-07-12 10:16:26,165 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:16:26,171 - aren - INFO - Conversation saved to database
+2025-07-12 10:16:26,196 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:16:26,196 - aren - INFO - Added action: capability_used
+2025-07-12 10:16:31,451 - aren - INFO - Processing user input: test
+2025-07-12 10:16:31,451 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:16:31,457 - aren - INFO - Conversation saved to database
+2025-07-12 10:16:31,481 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:16:31,482 - aren - INFO - Added action: capability_used
+2025-07-12 10:16:31,521 - aren - INFO - API request from user user123: What's the weather like today?
+2025-07-12 10:16:31,521 - aren - INFO - Processing user input: What's the weather like today?
+2025-07-12 10:16:31,522 - aren - INFO - Selected 'weather' with confidence 1.00
+2025-07-12 10:16:31,522 - aren - INFO - Selected capability: weather with confidence: 1.0
+2025-07-12 10:16:31,522 - aren - INFO - Generated mock weather for like
+2025-07-12 10:16:31,527 - aren - INFO - Conversation saved to database
+2025-07-12 10:16:31,540 - aren - INFO - Added conversation exchange: What's the weather like today?...
+2025-07-12 10:16:31,542 - aren - INFO - Added action: capability_used
+2025-07-12 10:16:32,475 - aren - INFO - Processing user input: test
+2025-07-12 10:16:32,476 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:16:32,481 - aren - INFO - Conversation saved to database
+2025-07-12 10:16:32,507 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:16:32,508 - aren - INFO - Added action: capability_used
+2025-07-12 10:16:32,539 - aren - INFO - API request from user user123: Listening...
+2025-07-12 10:16:32,545 - aren - INFO - Processing user input: Listening...
+2025-07-12 10:16:32,545 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:16:32,566 - aren - INFO - Conversation saved to database
+2025-07-12 10:16:32,578 - aren - INFO - Added conversation exchange: Listening......
+2025-07-12 10:16:32,578 - aren - INFO - Added action: capability_used
+2025-07-12 10:22:08,325 - aren - INFO - Processing user input: test
+2025-07-12 10:22:08,326 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:22:08,332 - aren - INFO - Conversation saved to database
+2025-07-12 10:22:08,341 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:22:08,341 - aren - INFO - Added action: capability_used
+2025-07-12 10:25:40,341 - aren - INFO - Processing user input: test
+2025-07-12 10:25:40,341 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:25:40,350 - aren - INFO - Conversation saved to database
+2025-07-12 10:25:40,373 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:25:40,374 - aren - INFO - Added action: capability_used
+2025-07-12 10:25:44,785 - aren - INFO - Processing user input: test
+2025-07-12 10:25:44,785 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:25:44,792 - aren - INFO - Conversation saved to database
+2025-07-12 10:25:44,823 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:25:44,823 - aren - INFO - Added action: capability_used
+2025-07-12 10:25:44,854 - aren - INFO - API request from user user123: Who is the prime minister of India?
+2025-07-12 10:25:44,855 - aren - INFO - Processing user input: Who is the prime minister of India?
+2025-07-12 10:25:44,855 - aren - INFO - Selected 'search' with confidence 0.90
+2025-07-12 10:25:44,855 - aren - INFO - Selected capability: search with confidence: 0.9
+2025-07-12 10:25:44,855 - aren - INFO - Processing search query: Who is the prime minister of India?
+2025-07-12 10:25:46,484 - aren - INFO - Conversation saved to database
+2025-07-12 10:25:46,509 - aren - INFO - Added conversation exchange: Who is the prime minister of India?...
+2025-07-12 10:25:46,509 - aren - INFO - Added action: capability_used
+2025-07-12 10:25:50,109 - aren - INFO - Processing user input: test
+2025-07-12 10:25:50,110 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:25:50,121 - aren - INFO - Conversation saved to database
+2025-07-12 10:25:50,146 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:25:50,146 - aren - INFO - Added action: capability_used
+2025-07-12 10:25:50,175 - aren - INFO - API request from user user123: How are you doing today?
+2025-07-12 10:25:50,176 - aren - INFO - Processing user input: How are you doing today?
+2025-07-12 10:25:50,176 - aren - INFO - Selected 'search' with confidence 0.10
+2025-07-12 10:25:50,176 - aren - INFO - Selected capability: search with confidence: 0.1
+2025-07-12 10:25:50,176 - aren - INFO - Processing search query: How are you doing today?
+2025-07-12 10:25:51,385 - aren - INFO - Conversation saved to database
+2025-07-12 10:25:51,409 - aren - INFO - Added conversation exchange: How are you doing today?...
+2025-07-12 10:25:51,409 - aren - INFO - Added action: capability_used
+2025-07-12 10:26:22,700 - aren - INFO - Processing user input: test
+2025-07-12 10:26:22,701 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:26:22,706 - aren - INFO - Conversation saved to database
+2025-07-12 10:26:22,722 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:26:22,723 - aren - INFO - Added action: capability_used
+2025-07-12 10:26:22,749 - aren - INFO - API request from user user123: Tell me about quantum computing
+2025-07-12 10:26:22,749 - aren - INFO - Processing user input: Tell me about quantum computing
+2025-07-12 10:26:22,749 - aren - INFO - Selected 'search' with confidence 1.00
+2025-07-12 10:26:22,749 - aren - INFO - Selected capability: search with confidence: 1.0
+2025-07-12 10:26:22,749 - aren - INFO - Processing search query: Tell me about quantum computing
+2025-07-12 10:26:24,346 - aren - INFO - Conversation saved to database
+2025-07-12 10:26:24,370 - aren - INFO - Added conversation exchange: Tell me about quantum computing...
+2025-07-12 10:26:24,370 - aren - INFO - Added action: capability_used
+2025-07-12 10:26:25,132 - aren - INFO - Processing user input: test
+2025-07-12 10:26:25,133 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:26:25,139 - aren - INFO - Conversation saved to database
+2025-07-12 10:26:25,163 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:26:25,163 - aren - INFO - Added action: capability_used
+2025-07-12 10:26:26,564 - aren - INFO - Processing user input: test
+2025-07-12 10:26:26,566 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:26:26,573 - aren - INFO - Conversation saved to database
+2025-07-12 10:26:26,597 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:26:26,599 - aren - INFO - Added action: capability_used
+2025-07-12 10:26:26,782 - aren - INFO - API request from user user123: Tell me about quantum computing
+2025-07-12 10:26:26,782 - aren - INFO - Processing user input: Tell me about quantum computing
+2025-07-12 10:26:26,782 - aren - INFO - Selected 'search' with confidence 1.00
+2025-07-12 10:26:26,782 - aren - INFO - Selected capability: search with confidence: 1.0
+2025-07-12 10:26:26,783 - aren - INFO - Processing search query: Tell me about quantum computing
+2025-07-12 10:26:28,658 - aren - INFO - Conversation saved to database
+2025-07-12 10:26:28,686 - aren - INFO - Added conversation exchange: Tell me about quantum computing...
+2025-07-12 10:26:28,687 - aren - INFO - Added action: capability_used
+2025-07-12 10:26:37,899 - aren - INFO - Processing user input: test
+2025-07-12 10:26:37,899 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:26:37,904 - aren - INFO - Conversation saved to database
+2025-07-12 10:26:37,927 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:26:37,927 - aren - INFO - Added action: capability_used
+2025-07-12 10:26:40,506 - aren - INFO - Processing user input: test
+2025-07-12 10:26:40,507 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:26:40,511 - aren - INFO - Conversation saved to database
+2025-07-12 10:26:40,517 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:26:40,517 - aren - INFO - Added action: capability_used
+2025-07-12 10:26:40,538 - aren - INFO - API request from user user123: Listening...
+2025-07-12 10:26:40,538 - aren - INFO - Processing user input: Listening...
+2025-07-12 10:26:40,538 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:26:40,543 - aren - INFO - Conversation saved to database
+2025-07-12 10:26:40,546 - aren - INFO - Added conversation exchange: Listening......
+2025-07-12 10:26:40,546 - aren - INFO - Added action: capability_used
+2025-07-12 10:26:42,947 - aren - INFO - Processing user input: test
+2025-07-12 10:26:42,948 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:26:42,953 - aren - INFO - Conversation saved to database
+2025-07-12 10:26:42,977 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:26:42,977 - aren - INFO - Added action: capability_used
+2025-07-12 10:26:43,010 - aren - INFO - API request from user user123: Tell me about quantum computing
+2025-07-12 10:26:43,011 - aren - INFO - Processing user input: Tell me about quantum computing
+2025-07-12 10:26:43,011 - aren - INFO - Selected 'search' with confidence 1.00
+2025-07-12 10:26:43,011 - aren - INFO - Selected capability: search with confidence: 1.0
+2025-07-12 10:26:43,011 - aren - INFO - Processing search query: Tell me about quantum computing
+2025-07-12 10:26:44,416 - aren - INFO - Conversation saved to database
+2025-07-12 10:26:44,429 - aren - INFO - Added conversation exchange: Tell me about quantum computing...
+2025-07-12 10:26:44,429 - aren - INFO - Added action: capability_used
+2025-07-12 10:33:46,599 - aren - INFO - Processing user input: test
+2025-07-12 10:33:46,600 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:33:46,605 - aren - INFO - Conversation saved to database
+2025-07-12 10:33:46,629 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:33:46,630 - aren - INFO - Added action: capability_used
+2025-07-12 10:33:52,546 - aren - INFO - Processing user input: test
+2025-07-12 10:33:52,547 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:33:52,552 - aren - INFO - Conversation saved to database
+2025-07-12 10:33:52,576 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:33:52,576 - aren - INFO - Added action: capability_used
+2025-07-12 10:33:52,607 - aren - INFO - API request from user user123: Hello
+2025-07-12 10:33:52,607 - aren - INFO - Processing user input: Hello
+2025-07-12 10:33:52,607 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-12 10:33:52,608 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-12 10:33:52,608 - aren - INFO - Selected greeting: Good morning! Aaj ka din shubh ho.
+2025-07-12 10:33:52,613 - aren - INFO - Conversation saved to database
+2025-07-12 10:33:52,617 - aren - INFO - Added conversation exchange: Hello...
+2025-07-12 10:33:52,617 - aren - INFO - Added action: capability_used
+2025-07-12 10:34:02,987 - aren - INFO - Processing user input: test
+2025-07-12 10:34:02,987 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:34:02,992 - aren - INFO - Conversation saved to database
+2025-07-12 10:34:03,015 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:34:03,015 - aren - INFO - Added action: capability_used
+2025-07-12 10:34:03,085 - aren - INFO - API request from user user123: Tell.me about srk
+2025-07-12 10:34:03,085 - aren - INFO - Processing user input: Tell.me about srk
+2025-07-12 10:34:03,085 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:34:03,092 - aren - INFO - Conversation saved to database
+2025-07-12 10:34:03,100 - aren - INFO - Added conversation exchange: Tell.me about srk...
+2025-07-12 10:34:03,100 - aren - INFO - Added action: capability_used
+2025-07-12 10:34:12,400 - aren - INFO - Processing user input: test
+2025-07-12 10:34:12,400 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:34:12,405 - aren - INFO - Conversation saved to database
+2025-07-12 10:34:12,429 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:34:12,430 - aren - INFO - Added action: capability_used
+2025-07-12 10:34:12,555 - aren - INFO - API request from user user123: Tell me about srk
+2025-07-12 10:34:12,555 - aren - INFO - Processing user input: Tell me about srk
+2025-07-12 10:34:12,555 - aren - INFO - Selected 'search' with confidence 1.00
+2025-07-12 10:34:12,555 - aren - INFO - Selected capability: search with confidence: 1.0
+2025-07-12 10:34:12,556 - aren - INFO - Processing search query: Tell me about srk
+2025-07-12 10:34:14,518 - aren - INFO - Conversation saved to database
+2025-07-12 10:34:14,531 - aren - INFO - Added conversation exchange: Tell me about srk...
+2025-07-12 10:34:14,531 - aren - INFO - Added action: capability_used
+2025-07-12 10:34:49,884 - aren - INFO - Processing user input: test
+2025-07-12 10:34:49,885 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:34:49,890 - aren - INFO - Conversation saved to database
+2025-07-12 10:34:49,914 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:34:49,915 - aren - INFO - Added action: capability_used
+2025-07-12 10:34:49,937 - aren - INFO - API request from user user123: Open firfox
+2025-07-12 10:34:49,937 - aren - INFO - Processing user input: Open firfox
+2025-07-12 10:34:49,938 - aren - INFO - Selected 'launch_app' with confidence 1.00
+2025-07-12 10:34:49,938 - aren - INFO - Selected capability: launch_app with confidence: 1.0
+2025-07-12 10:34:49,938 - aren - INFO - Attempting to launch application: open firfox
+2025-07-12 10:34:49,938 - aren - WARNING - Could not recognize application: open firfox
+2025-07-12 10:34:49,954 - aren - INFO - Conversation saved to database
+2025-07-12 10:34:49,958 - aren - INFO - Added conversation exchange: Open firfox...
+2025-07-12 10:34:49,958 - aren - INFO - Added action: capability_used
+2025-07-12 10:34:59,271 - aren - INFO - Processing user input: test
+2025-07-12 10:34:59,272 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 10:34:59,277 - aren - INFO - Conversation saved to database
+2025-07-12 10:34:59,300 - aren - INFO - Added conversation exchange: test...
+2025-07-12 10:34:59,301 - aren - INFO - Added action: capability_used
+2025-07-12 10:34:59,332 - aren - INFO - API request from user user123: Open firefox
+2025-07-12 10:34:59,333 - aren - INFO - Processing user input: Open firefox
+2025-07-12 10:34:59,333 - aren - INFO - Selected 'launch_app' with confidence 1.00
+2025-07-12 10:34:59,333 - aren - INFO - Selected capability: launch_app with confidence: 1.0
+2025-07-12 10:34:59,335 - aren - INFO - Attempting to launch application: open firefox
+2025-07-12 10:34:59,337 - aren - INFO - Successfully launched firefox
+2025-07-12 10:34:59,343 - aren - INFO - Conversation saved to database
+2025-07-12 10:34:59,349 - aren - INFO - Added conversation exchange: Open firefox...
+2025-07-12 10:34:59,350 - aren - INFO - Added action: capability_used
+2025-07-12 11:52:28,395 - aren - INFO - New database connection established
+2025-07-12 11:52:28,415 - aren - INFO - Database connection test successful!
+2025-07-12 11:52:28,416 - aren - INFO - Database connection initialized successfully
+2025-07-12 11:52:28,465 - aren - INFO - Recent data loaded successfully
+2025-07-12 11:52:28,465 - aren - INFO - Context Manager initialized
+2025-07-12 11:52:28,470 - aren - INFO - System info saved: creator_name
+2025-07-12 11:52:28,484 - aren - INFO - System info saved: creator_nickname
+2025-07-12 11:52:28,498 - aren - INFO - System info saved: creator_alias
+2025-07-12 11:52:28,510 - aren - INFO - System info saved: creator_education
+2025-07-12 11:52:28,526 - aren - INFO - System info saved: creation_date
+2025-07-12 11:52:28,544 - aren - INFO - System info saved: system_name
+2025-07-12 11:52:28,550 - aren - INFO - AREN Engine initialized
+2025-07-12 11:52:28,552 - aren - ERROR - Invalid port number: --debug
+2025-07-12 11:52:28,552 - aren - INFO - Starting AREN API server on 0.0.0.0:5000
+2025-07-12 11:57:00,502 - aren - INFO - New database connection established
+2025-07-12 11:57:00,522 - aren - INFO - Database connection test successful!
+2025-07-12 11:57:00,523 - aren - INFO - Database connection initialized successfully
+2025-07-12 11:57:00,572 - aren - INFO - Recent data loaded successfully
+2025-07-12 11:57:00,572 - aren - INFO - Context Manager initialized
+2025-07-12 11:57:00,577 - aren - INFO - System info saved: creator_name
+2025-07-12 11:57:00,608 - aren - INFO - System info saved: creator_nickname
+2025-07-12 11:57:00,621 - aren - INFO - System info saved: creator_alias
+2025-07-12 11:57:00,632 - aren - INFO - System info saved: creator_education
+2025-07-12 11:57:00,642 - aren - INFO - System info saved: creation_date
+2025-07-12 11:57:00,656 - aren - INFO - System info saved: system_name
+2025-07-12 11:57:00,665 - aren - INFO - AREN Engine initialized
+2025-07-12 11:57:00,669 - aren - ERROR - Invalid port number: --debug
+2025-07-12 11:57:00,669 - aren - INFO - Starting AREN API server on 0.0.0.0:5000
+2025-07-12 18:13:43,963 - aren - INFO - New database connection established
+2025-07-12 18:13:43,984 - aren - INFO - Database connection test successful!
+2025-07-12 18:13:43,985 - aren - INFO - Database connection initialized successfully
+2025-07-12 18:13:44,081 - aren - INFO - Recent data loaded successfully
+2025-07-12 18:13:44,082 - aren - INFO - Context Manager initialized
+2025-07-12 18:13:44,099 - aren - INFO - System info saved: creator_name
+2025-07-12 18:13:44,125 - aren - INFO - System info saved: creator_nickname
+2025-07-12 18:13:44,145 - aren - INFO - System info saved: creator_alias
+2025-07-12 18:13:44,163 - aren - INFO - System info saved: creator_education
+2025-07-12 18:13:44,177 - aren - INFO - System info saved: creation_date
+2025-07-12 18:13:44,196 - aren - INFO - System info saved: system_name
+2025-07-12 18:13:44,204 - aren - INFO - AREN Engine initialized
+2025-07-12 18:13:57,689 - aren - INFO - New database connection established
+2025-07-12 18:13:57,724 - aren - INFO - Database connection test successful!
+2025-07-12 18:13:57,729 - aren - INFO - Database connection initialized successfully
+2025-07-12 18:13:57,867 - aren - INFO - Recent data loaded successfully
+2025-07-12 18:13:57,867 - aren - INFO - Context Manager initialized
+2025-07-12 18:13:57,874 - aren - INFO - System info saved: creator_name
+2025-07-12 18:13:57,913 - aren - INFO - System info saved: creator_nickname
+2025-07-12 18:13:57,927 - aren - INFO - System info saved: creator_alias
+2025-07-12 18:13:57,944 - aren - INFO - System info saved: creator_education
+2025-07-12 18:13:57,963 - aren - INFO - System info saved: creation_date
+2025-07-12 18:13:57,976 - aren - INFO - System info saved: system_name
+2025-07-12 18:13:57,982 - aren - INFO - AREN Engine initialized
+2025-07-12 18:20:37,813 - aren - INFO - New database connection established
+2025-07-12 18:20:37,836 - aren - INFO - Database connection test successful!
+2025-07-12 18:20:37,837 - aren - INFO - Database connection initialized successfully
+2025-07-12 18:20:37,895 - aren - INFO - Recent data loaded successfully
+2025-07-12 18:20:37,895 - aren - INFO - Context Manager initialized
+2025-07-12 18:20:37,902 - aren - INFO - System info saved: creator_name
+2025-07-12 18:20:37,938 - aren - INFO - System info saved: creator_nickname
+2025-07-12 18:20:37,956 - aren - INFO - System info saved: creator_alias
+2025-07-12 18:20:37,968 - aren - INFO - System info saved: creator_education
+2025-07-12 18:20:37,995 - aren - INFO - System info saved: creation_date
+2025-07-12 18:20:38,012 - aren - INFO - System info saved: system_name
+2025-07-12 18:20:38,018 - aren - INFO - AREN Engine initialized
+2025-07-12 18:27:55,006 - aren - INFO - New database connection established
+2025-07-12 18:27:55,034 - aren - INFO - Database connection test successful!
+2025-07-12 18:27:55,035 - aren - INFO - Database connection initialized successfully
+2025-07-12 18:27:55,146 - aren - INFO - Recent data loaded successfully
+2025-07-12 18:27:55,146 - aren - INFO - Context Manager initialized
+2025-07-12 18:27:55,163 - aren - INFO - System info saved: creator_name
+2025-07-12 18:27:55,202 - aren - INFO - System info saved: creator_nickname
+2025-07-12 18:27:55,222 - aren - INFO - System info saved: creator_alias
+2025-07-12 18:27:55,239 - aren - INFO - System info saved: creator_education
+2025-07-12 18:27:55,259 - aren - INFO - System info saved: creation_date
+2025-07-12 18:27:55,271 - aren - INFO - System info saved: system_name
+2025-07-12 18:27:55,280 - aren - INFO - AREN Engine initialized
+2025-07-12 18:30:07,779 - aren - INFO - New database connection established
+2025-07-12 18:30:07,808 - aren - INFO - Database connection test successful!
+2025-07-12 18:30:07,809 - aren - INFO - Database connection initialized successfully
+2025-07-12 18:30:07,886 - aren - INFO - Recent data loaded successfully
+2025-07-12 18:30:07,887 - aren - INFO - Context Manager initialized
+2025-07-12 18:30:07,897 - aren - INFO - System info saved: creator_name
+2025-07-12 18:30:07,930 - aren - INFO - System info saved: creator_nickname
+2025-07-12 18:30:07,949 - aren - INFO - System info saved: creator_alias
+2025-07-12 18:30:07,965 - aren - INFO - System info saved: creator_education
+2025-07-12 18:30:07,977 - aren - INFO - System info saved: creation_date
+2025-07-12 18:30:07,990 - aren - INFO - System info saved: system_name
+2025-07-12 18:30:07,994 - aren - INFO - AREN Engine initialized
+2025-07-12 18:35:34,248 - aren - INFO - New database connection established
+2025-07-12 18:35:34,276 - aren - INFO - Database connection test successful!
+2025-07-12 18:35:34,277 - aren - INFO - Database connection initialized successfully
+2025-07-12 18:35:34,373 - aren - INFO - Recent data loaded successfully
+2025-07-12 18:35:34,373 - aren - INFO - Context Manager initialized
+2025-07-12 18:35:34,383 - aren - INFO - System info saved: creator_name
+2025-07-12 18:35:34,402 - aren - INFO - System info saved: creator_nickname
+2025-07-12 18:35:34,413 - aren - INFO - System info saved: creator_alias
+2025-07-12 18:35:34,426 - aren - INFO - System info saved: creator_education
+2025-07-12 18:35:34,440 - aren - INFO - System info saved: creation_date
+2025-07-12 18:35:34,463 - aren - INFO - System info saved: system_name
+2025-07-12 18:35:34,480 - aren - INFO - AREN Engine initialized
+2025-07-12 22:06:22,366 - aren - INFO - New database connection established
+2025-07-12 22:06:22,391 - aren - INFO - Database connection test successful!
+2025-07-12 22:06:22,393 - aren - INFO - Database connection initialized successfully
+2025-07-12 22:06:22,469 - aren - INFO - Recent data loaded successfully
+2025-07-12 22:06:22,469 - aren - INFO - Context Manager initialized
+2025-07-12 22:06:22,475 - aren - INFO - System info saved: creator_name
+2025-07-12 22:06:22,490 - aren - INFO - System info saved: creator_nickname
+2025-07-12 22:06:22,502 - aren - INFO - System info saved: creator_alias
+2025-07-12 22:06:22,510 - aren - INFO - System info saved: creator_education
+2025-07-12 22:06:22,527 - aren - INFO - System info saved: creation_date
+2025-07-12 22:06:22,536 - aren - INFO - System info saved: system_name
+2025-07-12 22:06:22,539 - aren - INFO - AREN Engine initialized
+2025-07-12 22:06:22,540 - aren - INFO - Starting AREN API server on 0.0.0.0:1906
+2025-07-12 22:41:58,299 - aren - INFO - New database connection established
+2025-07-12 22:41:58,370 - aren - INFO - Database connection test successful!
+2025-07-12 22:41:58,374 - aren - INFO - Database connection initialized successfully
+2025-07-12 22:41:58,537 - aren - INFO - Recent data loaded successfully
+2025-07-12 22:41:58,542 - aren - INFO - Context Manager initialized
+2025-07-12 22:41:58,563 - aren - INFO - System info saved: creator_name
+2025-07-12 22:41:58,586 - aren - INFO - System info saved: creator_nickname
+2025-07-12 22:41:58,608 - aren - INFO - System info saved: creator_alias
+2025-07-12 22:41:58,622 - aren - INFO - System info saved: creator_education
+2025-07-12 22:41:58,640 - aren - INFO - System info saved: creation_date
+2025-07-12 22:41:58,652 - aren - INFO - System info saved: system_name
+2025-07-12 22:41:58,662 - aren - INFO - AREN Engine initialized
+2025-07-12 22:41:58,667 - aren - INFO - Starting AREN API server on 0.0.0.0:1906
+2025-07-12 23:12:58,005 - aren - INFO - New database connection established
+2025-07-12 23:12:58,031 - aren - INFO - Database connection test successful!
+2025-07-12 23:12:58,031 - aren - INFO - Database connection initialized successfully
+2025-07-12 23:12:58,084 - aren - INFO - Recent data loaded successfully
+2025-07-12 23:12:58,084 - aren - INFO - Context Manager initialized
+2025-07-12 23:12:58,090 - aren - INFO - System info saved: creator_name
+2025-07-12 23:12:58,119 - aren - INFO - System info saved: creator_nickname
+2025-07-12 23:12:58,128 - aren - INFO - System info saved: creator_alias
+2025-07-12 23:12:58,138 - aren - INFO - System info saved: creator_education
+2025-07-12 23:12:58,151 - aren - INFO - System info saved: creation_date
+2025-07-12 23:12:58,157 - aren - INFO - System info saved: system_name
+2025-07-12 23:12:58,165 - aren - INFO - AREN Engine initialized
+2025-07-12 23:12:58,166 - aren - INFO - Starting AREN API server on 0.0.0.0:1906
+2025-07-12 23:22:49,853 - aren - INFO - New database connection established
+2025-07-12 23:22:49,883 - aren - INFO - Database connection test successful!
+2025-07-12 23:22:49,884 - aren - INFO - Database connection initialized successfully
+2025-07-12 23:22:49,948 - aren - INFO - Recent data loaded successfully
+2025-07-12 23:22:49,948 - aren - INFO - Context Manager initialized
+2025-07-12 23:22:49,953 - aren - INFO - System info saved: creator_name
+2025-07-12 23:22:49,986 - aren - INFO - System info saved: creator_nickname
+2025-07-12 23:22:50,017 - aren - INFO - System info saved: creator_alias
+2025-07-12 23:22:50,036 - aren - INFO - System info saved: creator_education
+2025-07-12 23:22:50,070 - aren - INFO - System info saved: creation_date
+2025-07-12 23:22:50,085 - aren - INFO - System info saved: system_name
+2025-07-12 23:22:50,091 - aren - INFO - AREN Engine initialized
+2025-07-12 23:22:50,098 - aren - INFO - Starting AREN API server on :::1906
+2025-07-12 23:23:39,643 - aren - INFO - New database connection established
+2025-07-12 23:23:39,666 - aren - INFO - Database connection test successful!
+2025-07-12 23:23:39,666 - aren - INFO - Database connection initialized successfully
+2025-07-12 23:23:39,720 - aren - INFO - Recent data loaded successfully
+2025-07-12 23:23:39,720 - aren - INFO - Context Manager initialized
+2025-07-12 23:23:39,728 - aren - INFO - System info saved: creator_name
+2025-07-12 23:23:39,757 - aren - INFO - System info saved: creator_nickname
+2025-07-12 23:23:39,767 - aren - INFO - System info saved: creator_alias
+2025-07-12 23:23:39,778 - aren - INFO - System info saved: creator_education
+2025-07-12 23:23:39,796 - aren - INFO - System info saved: creation_date
+2025-07-12 23:23:39,810 - aren - INFO - System info saved: system_name
+2025-07-12 23:23:39,816 - aren - INFO - AREN Engine initialized
+2025-07-12 23:23:39,821 - aren - INFO - Starting AREN API server on :::1906
+2025-07-12 23:49:23,573 - aren - INFO - Processing user input: test
+2025-07-12 23:49:23,574 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-12 23:49:23,581 - aren - INFO - Conversation saved to database
+2025-07-12 23:49:23,614 - aren - INFO - Added conversation exchange: test...
+2025-07-12 23:49:23,617 - aren - INFO - Added action: capability_used
+2025-07-12 23:58:01,846 - aren - INFO - New database connection established
+2025-07-12 23:58:01,882 - aren - INFO - Database connection test successful!
+2025-07-12 23:58:01,886 - aren - INFO - Database connection initialized successfully
+2025-07-12 23:58:01,986 - aren - INFO - Recent data loaded successfully
+2025-07-12 23:58:01,986 - aren - INFO - Context Manager initialized
+2025-07-12 23:58:01,994 - aren - INFO - System info saved: creator_name
+2025-07-12 23:58:02,018 - aren - INFO - System info saved: creator_nickname
+2025-07-12 23:58:02,029 - aren - INFO - System info saved: creator_alias
+2025-07-12 23:58:02,049 - aren - INFO - System info saved: creator_education
+2025-07-12 23:58:02,064 - aren - INFO - System info saved: creation_date
+2025-07-12 23:58:02,082 - aren - INFO - System info saved: system_name
+2025-07-12 23:58:02,090 - aren - INFO - AREN Engine initialized
+2025-07-12 23:58:02,097 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:01:18,256 - aren - INFO - Processing user input: test
+2025-07-13 12:01:18,257 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 12:01:18,278 - aren - INFO - New database connection established
+2025-07-13 12:01:18,309 - aren - INFO - Conversation saved to database
+2025-07-13 12:01:18,322 - aren - INFO - Added conversation exchange: test...
+2025-07-13 12:01:18,323 - aren - INFO - Added action: capability_used

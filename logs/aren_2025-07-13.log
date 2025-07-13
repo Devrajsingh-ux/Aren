@@ -1,0 +1,236 @@
+2025-07-13 12:02:13,245 - aren - INFO - New database connection established
+2025-07-13 12:02:13,277 - aren - INFO - Database connection test successful!
+2025-07-13 12:02:13,278 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:02:13,341 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:02:13,341 - aren - INFO - Context Manager initialized
+2025-07-13 12:02:13,347 - aren - INFO - System info saved: creator_name
+2025-07-13 12:02:13,363 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:02:13,379 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:02:13,388 - aren - INFO - System info saved: creator_education
+2025-07-13 12:02:13,401 - aren - INFO - System info saved: creation_date
+2025-07-13 12:02:13,416 - aren - INFO - System info saved: system_name
+2025-07-13 12:02:13,422 - aren - INFO - AREN Engine initialized
+2025-07-13 12:02:13,424 - aren - INFO - Starting AREN API server on 0.0.0.0:1906
+2025-07-13 12:03:07,991 - aren - INFO - New database connection established
+2025-07-13 12:03:08,021 - aren - INFO - Database connection test successful!
+2025-07-13 12:03:08,023 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:03:08,124 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:03:08,125 - aren - INFO - Context Manager initialized
+2025-07-13 12:03:08,142 - aren - INFO - System info saved: creator_name
+2025-07-13 12:03:08,191 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:03:08,198 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:03:08,210 - aren - INFO - System info saved: creator_education
+2025-07-13 12:03:08,223 - aren - INFO - System info saved: creation_date
+2025-07-13 12:03:08,237 - aren - INFO - System info saved: system_name
+2025-07-13 12:03:08,250 - aren - INFO - AREN Engine initialized
+2025-07-13 12:03:08,256 - aren - INFO - Starting AREN API server on 0.0.0.0:1906
+2025-07-13 12:03:37,002 - aren - INFO - New database connection established
+2025-07-13 12:03:37,030 - aren - INFO - Database connection test successful!
+2025-07-13 12:03:37,031 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:03:37,098 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:03:37,099 - aren - INFO - Context Manager initialized
+2025-07-13 12:03:37,112 - aren - INFO - System info saved: creator_name
+2025-07-13 12:03:37,156 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:03:37,179 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:03:37,194 - aren - INFO - System info saved: creator_education
+2025-07-13 12:03:37,208 - aren - INFO - System info saved: creation_date
+2025-07-13 12:03:37,220 - aren - INFO - System info saved: system_name
+2025-07-13 12:03:37,229 - aren - INFO - AREN Engine initialized
+2025-07-13 12:03:37,231 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:11:28,156 - aren - INFO - New database connection established
+2025-07-13 12:11:28,185 - aren - INFO - Database connection test successful!
+2025-07-13 12:11:28,186 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:11:28,243 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:11:28,243 - aren - INFO - Context Manager initialized
+2025-07-13 12:11:28,250 - aren - INFO - System info saved: creator_name
+2025-07-13 12:11:28,284 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:11:28,297 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:11:28,310 - aren - INFO - System info saved: creator_education
+2025-07-13 12:11:28,319 - aren - INFO - System info saved: creation_date
+2025-07-13 12:11:28,329 - aren - INFO - System info saved: system_name
+2025-07-13 12:11:28,335 - aren - INFO - AREN Engine initialized
+2025-07-13 12:11:28,337 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:11:35,193 - aren - INFO - New database connection established
+2025-07-13 12:11:35,217 - aren - INFO - Database connection test successful!
+2025-07-13 12:11:35,218 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:11:35,272 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:11:35,272 - aren - INFO - Context Manager initialized
+2025-07-13 12:11:35,279 - aren - INFO - System info saved: creator_name
+2025-07-13 12:11:35,310 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:11:35,319 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:11:35,328 - aren - INFO - System info saved: creator_education
+2025-07-13 12:11:35,335 - aren - INFO - System info saved: creation_date
+2025-07-13 12:11:35,341 - aren - INFO - System info saved: system_name
+2025-07-13 12:11:35,344 - aren - INFO - AREN Engine initialized
+2025-07-13 12:11:35,346 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:11:42,342 - aren - INFO - New database connection established
+2025-07-13 12:11:42,360 - aren - INFO - Database connection test successful!
+2025-07-13 12:11:42,360 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:11:42,403 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:11:42,403 - aren - INFO - Context Manager initialized
+2025-07-13 12:11:42,408 - aren - INFO - System info saved: creator_name
+2025-07-13 12:11:42,436 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:11:42,441 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:11:42,446 - aren - INFO - System info saved: creator_education
+2025-07-13 12:11:42,451 - aren - INFO - System info saved: creation_date
+2025-07-13 12:11:42,456 - aren - INFO - System info saved: system_name
+2025-07-13 12:11:42,459 - aren - INFO - AREN Engine initialized
+2025-07-13 12:11:42,461 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:12:16,157 - aren - INFO - New database connection established
+2025-07-13 12:12:16,181 - aren - INFO - Database connection test successful!
+2025-07-13 12:12:16,182 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:12:16,233 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:12:16,234 - aren - INFO - Context Manager initialized
+2025-07-13 12:12:16,239 - aren - INFO - System info saved: creator_name
+2025-07-13 12:12:16,268 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:12:16,274 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:12:16,281 - aren - INFO - System info saved: creator_education
+2025-07-13 12:12:16,288 - aren - INFO - System info saved: creation_date
+2025-07-13 12:12:16,301 - aren - INFO - System info saved: system_name
+2025-07-13 12:12:16,308 - aren - INFO - AREN Engine initialized
+2025-07-13 12:12:16,310 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:13:09,244 - aren - INFO - New database connection established
+2025-07-13 12:13:09,264 - aren - INFO - Database connection test successful!
+2025-07-13 12:13:09,265 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:13:09,345 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:13:09,345 - aren - INFO - Context Manager initialized
+2025-07-13 12:13:09,355 - aren - INFO - System info saved: creator_name
+2025-07-13 12:13:09,394 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:13:09,409 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:13:09,426 - aren - INFO - System info saved: creator_education
+2025-07-13 12:13:09,438 - aren - INFO - System info saved: creation_date
+2025-07-13 12:13:09,452 - aren - INFO - System info saved: system_name
+2025-07-13 12:13:09,460 - aren - INFO - AREN Engine initialized
+2025-07-13 12:13:09,469 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:13:28,151 - aren - INFO - New database connection established
+2025-07-13 12:13:28,175 - aren - INFO - Database connection test successful!
+2025-07-13 12:13:28,176 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:13:28,225 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:13:28,226 - aren - INFO - Context Manager initialized
+2025-07-13 12:13:28,231 - aren - INFO - System info saved: creator_name
+2025-07-13 12:13:28,274 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:13:28,283 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:13:28,299 - aren - INFO - System info saved: creator_education
+2025-07-13 12:13:28,313 - aren - INFO - System info saved: creation_date
+2025-07-13 12:13:28,326 - aren - INFO - System info saved: system_name
+2025-07-13 12:13:28,332 - aren - INFO - AREN Engine initialized
+2025-07-13 12:13:28,342 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:13:51,397 - aren - INFO - New database connection established
+2025-07-13 12:13:51,438 - aren - INFO - Database connection test successful!
+2025-07-13 12:13:51,440 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:13:51,525 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:13:51,526 - aren - INFO - Context Manager initialized
+2025-07-13 12:13:51,531 - aren - INFO - System info saved: creator_name
+2025-07-13 12:13:51,578 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:13:51,593 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:13:51,605 - aren - INFO - System info saved: creator_education
+2025-07-13 12:13:51,620 - aren - INFO - System info saved: creation_date
+2025-07-13 12:13:51,632 - aren - INFO - System info saved: system_name
+2025-07-13 12:13:51,641 - aren - INFO - AREN Engine initialized
+2025-07-13 12:13:51,645 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:15:54,476 - aren - INFO - New database connection established
+2025-07-13 12:15:54,531 - aren - INFO - Database connection test successful!
+2025-07-13 12:15:54,535 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:15:54,643 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:15:54,644 - aren - INFO - Context Manager initialized
+2025-07-13 12:15:54,650 - aren - INFO - System info saved: creator_name
+2025-07-13 12:15:54,665 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:15:54,684 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:15:54,698 - aren - INFO - System info saved: creator_education
+2025-07-13 12:15:54,705 - aren - INFO - System info saved: creation_date
+2025-07-13 12:15:54,720 - aren - INFO - System info saved: system_name
+2025-07-13 12:15:54,730 - aren - INFO - AREN Engine initialized
+2025-07-13 12:15:54,736 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:53:44,260 - aren - INFO - New database connection established
+2025-07-13 12:53:44,306 - aren - INFO - Database connection test successful!
+2025-07-13 12:53:44,311 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:53:44,447 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:53:44,447 - aren - INFO - Context Manager initialized
+2025-07-13 12:53:44,459 - aren - INFO - System info saved: creator_name
+2025-07-13 12:53:44,501 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:53:44,520 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:53:44,533 - aren - INFO - System info saved: creator_education
+2025-07-13 12:53:44,543 - aren - INFO - System info saved: creation_date
+2025-07-13 12:53:44,556 - aren - INFO - System info saved: system_name
+2025-07-13 12:53:44,572 - aren - INFO - AREN Engine initialized
+2025-07-13 12:53:44,577 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:54:42,990 - aren - INFO - New database connection established
+2025-07-13 12:54:43,012 - aren - INFO - Database connection test successful!
+2025-07-13 12:54:43,013 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:54:43,063 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:54:43,064 - aren - INFO - Context Manager initialized
+2025-07-13 12:54:43,071 - aren - INFO - System info saved: creator_name
+2025-07-13 12:54:43,112 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:54:43,126 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:54:43,138 - aren - INFO - System info saved: creator_education
+2025-07-13 12:54:43,153 - aren - INFO - System info saved: creation_date
+2025-07-13 12:54:43,161 - aren - INFO - System info saved: system_name
+2025-07-13 12:54:43,169 - aren - INFO - AREN Engine initialized
+2025-07-13 12:54:43,173 - aren - ERROR - Invalid port number: --debug
+2025-07-13 12:54:43,174 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:56:10,709 - aren - INFO - New database connection established
+2025-07-13 12:56:10,740 - aren - INFO - Database connection test successful!
+2025-07-13 12:56:10,741 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:56:10,811 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:56:10,811 - aren - INFO - Context Manager initialized
+2025-07-13 12:56:10,825 - aren - INFO - System info saved: creator_name
+2025-07-13 12:56:10,859 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:56:10,873 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:56:10,887 - aren - INFO - System info saved: creator_education
+2025-07-13 12:56:10,902 - aren - INFO - System info saved: creation_date
+2025-07-13 12:56:10,917 - aren - INFO - System info saved: system_name
+2025-07-13 12:56:10,929 - aren - INFO - AREN Engine initialized
+2025-07-13 12:56:10,933 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 12:56:15,823 - aren - INFO - New database connection established
+2025-07-13 12:56:15,853 - aren - INFO - Database connection test successful!
+2025-07-13 12:56:15,854 - aren - INFO - Database connection initialized successfully
+2025-07-13 12:56:15,926 - aren - INFO - Recent data loaded successfully
+2025-07-13 12:56:15,926 - aren - INFO - Context Manager initialized
+2025-07-13 12:56:15,934 - aren - INFO - System info saved: creator_name
+2025-07-13 12:56:15,970 - aren - INFO - System info saved: creator_nickname
+2025-07-13 12:56:15,979 - aren - INFO - System info saved: creator_alias
+2025-07-13 12:56:15,991 - aren - INFO - System info saved: creator_education
+2025-07-13 12:56:16,006 - aren - INFO - System info saved: creation_date
+2025-07-13 12:56:16,023 - aren - INFO - System info saved: system_name
+2025-07-13 12:56:16,029 - aren - INFO - AREN Engine initialized
+2025-07-13 12:56:16,035 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 13:02:41,531 - aren - INFO - New database connection established
+2025-07-13 13:02:41,570 - aren - INFO - Database connection test successful!
+2025-07-13 13:02:41,572 - aren - INFO - Database connection initialized successfully
+2025-07-13 13:02:41,764 - aren - INFO - Recent data loaded successfully
+2025-07-13 13:02:41,765 - aren - INFO - Context Manager initialized
+2025-07-13 13:02:41,773 - aren - INFO - System info saved: creator_name
+2025-07-13 13:02:41,806 - aren - INFO - System info saved: creator_nickname
+2025-07-13 13:02:41,820 - aren - INFO - System info saved: creator_alias
+2025-07-13 13:02:41,830 - aren - INFO - System info saved: creator_education
+2025-07-13 13:02:41,840 - aren - INFO - System info saved: creation_date
+2025-07-13 13:02:41,848 - aren - INFO - System info saved: system_name
+2025-07-13 13:02:41,854 - aren - INFO - AREN Engine initialized
+2025-07-13 13:02:41,861 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 13:05:29,539 - aren - INFO - New database connection established
+2025-07-13 13:05:29,562 - aren - INFO - Database connection test successful!
+2025-07-13 13:05:29,562 - aren - INFO - Database connection initialized successfully
+2025-07-13 13:05:29,609 - aren - INFO - Recent data loaded successfully
+2025-07-13 13:05:29,609 - aren - INFO - Context Manager initialized
+2025-07-13 13:05:29,614 - aren - INFO - System info saved: creator_name
+2025-07-13 13:05:29,643 - aren - INFO - System info saved: creator_nickname
+2025-07-13 13:05:29,649 - aren - INFO - System info saved: creator_alias
+2025-07-13 13:05:29,657 - aren - INFO - System info saved: creator_education
+2025-07-13 13:05:29,662 - aren - INFO - System info saved: creation_date
+2025-07-13 13:05:29,670 - aren - INFO - System info saved: system_name
+2025-07-13 13:05:29,673 - aren - INFO - AREN Engine initialized
+2025-07-13 13:05:29,675 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 13:22:25,354 - aren - INFO - New database connection established
+2025-07-13 13:22:25,390 - aren - INFO - Database connection test successful!
+2025-07-13 13:22:25,391 - aren - INFO - Database connection initialized successfully
+2025-07-13 13:22:25,466 - aren - INFO - Recent data loaded successfully
+2025-07-13 13:22:25,466 - aren - INFO - Context Manager initialized
+2025-07-13 13:22:25,472 - aren - INFO - System info saved: creator_name
+2025-07-13 13:22:25,508 - aren - INFO - System info saved: creator_nickname
+2025-07-13 13:22:25,526 - aren - INFO - System info saved: creator_alias
+2025-07-13 13:22:25,554 - aren - INFO - System info saved: creator_education
+2025-07-13 13:22:25,583 - aren - INFO - System info saved: creation_date
+2025-07-13 13:22:25,606 - aren - INFO - System info saved: system_name
+2025-07-13 13:22:25,620 - aren - INFO - AREN Engine initialized
+2025-07-13 13:22:25,629 - aren - ERROR - Invalid port number: --debug
+2025-07-13 13:22:25,632 - aren - INFO - Starting AREN API server on :::1906
