@@ -234,3 +234,540 @@
 2025-07-13 13:22:25,620 - aren - INFO - AREN Engine initialized
 2025-07-13 13:22:25,629 - aren - ERROR - Invalid port number: --debug
 2025-07-13 13:22:25,632 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 16:53:08,381 - aren - INFO - New database connection established
+2025-07-13 16:53:08,452 - aren - INFO - Database connection test successful!
+2025-07-13 16:53:08,457 - aren - INFO - Database connection initialized successfully
+2025-07-13 16:53:08,458 - aren - INFO - Starting A.R.E.N.
+2025-07-13 16:53:08,531 - aren - ERROR - Failed to import GUI components: No module named 'customtkinter'
+2025-07-13 16:53:08,697 - aren - INFO - Recent data loaded successfully
+2025-07-13 16:53:08,697 - aren - INFO - Context Manager initialized
+2025-07-13 16:53:08,702 - aren - INFO - System info saved: creator_name
+2025-07-13 16:53:08,724 - aren - INFO - System info saved: creator_nickname
+2025-07-13 16:53:08,734 - aren - INFO - System info saved: creator_alias
+2025-07-13 16:53:08,745 - aren - INFO - System info saved: creator_education
+2025-07-13 16:53:08,766 - aren - INFO - System info saved: creation_date
+2025-07-13 16:53:08,783 - aren - INFO - System info saved: system_name
+2025-07-13 16:53:08,796 - aren - INFO - AREN Engine initialized
+2025-07-13 16:53:15,926 - aren - INFO - Processing user input: hello
+2025-07-13 16:53:15,928 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-13 16:53:15,928 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-13 16:53:15,928 - aren - INFO - Selected greeting: Namaskar! Kya haal hai?
+2025-07-13 16:53:15,937 - aren - INFO - Conversation saved to database
+2025-07-13 16:53:15,971 - aren - INFO - Added conversation exchange: hello...
+2025-07-13 16:53:15,971 - aren - INFO - Added action: capability_used
+2025-07-13 16:53:54,375 - aren - INFO - Processing user input: who made you
+2025-07-13 16:53:54,376 - aren - INFO - Selected 'identity' with confidence 0.27
+2025-07-13 16:53:54,376 - aren - INFO - Selected capability: identity with confidence: 0.26666666666666666
+2025-07-13 16:53:54,393 - aren - INFO - Conversation saved to database
+2025-07-13 16:53:54,401 - aren - INFO - Added conversation exchange: who made you...
+2025-07-13 16:53:54,401 - aren - INFO - Added action: capability_used
+2025-07-13 16:58:24,410 - aren - INFO - A.R.E.N. session ended
+2025-07-13 21:02:15,404 - aren - INFO - New database connection established
+2025-07-13 21:02:15,421 - aren - INFO - Database connection test successful!
+2025-07-13 21:02:15,422 - aren - INFO - Database connection initialized successfully
+2025-07-13 21:02:15,422 - aren - INFO - Starting A.R.E.N.
+2025-07-13 21:02:15,433 - aren - ERROR - Failed to import GUI components: No module named 'customtkinter'
+2025-07-13 21:02:15,479 - aren - INFO - Recent data loaded successfully
+2025-07-13 21:02:15,479 - aren - INFO - Context Manager initialized
+2025-07-13 21:02:15,484 - aren - INFO - System info saved: creator_name
+2025-07-13 21:02:15,492 - aren - INFO - System info saved: creator_nickname
+2025-07-13 21:02:15,497 - aren - INFO - System info saved: creator_alias
+2025-07-13 21:02:15,503 - aren - INFO - System info saved: creator_education
+2025-07-13 21:02:15,508 - aren - INFO - System info saved: creation_date
+2025-07-13 21:02:15,514 - aren - INFO - System info saved: system_name
+2025-07-13 21:02:15,517 - aren - INFO - AREN Engine initialized
+2025-07-13 21:02:19,882 - aren - INFO - Processing user input: hello aren
+2025-07-13 21:02:19,883 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-13 21:02:19,883 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-13 21:02:19,883 - aren - INFO - Selected greeting: Shubh sandhya! Main A.R.E.N. hoon, aapki madad ke liye.
+2025-07-13 21:02:19,918 - aren - INFO - Conversation saved to database
+2025-07-13 21:02:19,927 - aren - INFO - Added conversation exchange: hello aren...
+2025-07-13 21:02:19,927 - aren - INFO - Added action: capability_used
+2025-07-13 21:02:37,859 - aren - INFO - Processing user input: I'm feeling sad today
+2025-07-13 21:02:37,860 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 21:02:37,868 - aren - INFO - Conversation saved to database
+2025-07-13 21:02:37,891 - aren - INFO - Added conversation exchange: I'm feeling sad today...
+2025-07-13 21:02:37,891 - aren - INFO - Added action: capability_used
+2025-07-13 21:02:44,252 - aren - INFO - Processing user input: i am sad
+2025-07-13 21:02:44,253 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 21:02:44,260 - aren - INFO - Conversation saved to database
+2025-07-13 21:02:44,283 - aren - INFO - Added conversation exchange: i am sad...
+2025-07-13 21:02:44,284 - aren - INFO - Added action: capability_used
+2025-07-13 21:02:51,620 - aren - INFO - Processing user input: play music
+2025-07-13 21:02:51,620 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 21:02:51,629 - aren - INFO - Conversation saved to database
+2025-07-13 21:02:51,652 - aren - INFO - Added conversation exchange: play music...
+2025-07-13 21:02:51,652 - aren - INFO - Added action: capability_used
+2025-07-13 21:03:02,353 - aren - INFO - Processing user input: who invent tv
+2025-07-13 21:03:02,354 - aren - INFO - Selected 'search' with confidence 0.10
+2025-07-13 21:03:02,354 - aren - INFO - Selected capability: search with confidence: 0.1
+2025-07-13 21:03:02,354 - aren - INFO - Processing search query: who invent tv
+2025-07-13 21:03:04,068 - aren - INFO - Conversation saved to database
+2025-07-13 21:03:04,071 - aren - INFO - Added conversation exchange: who invent tv...
+2025-07-13 21:03:04,072 - aren - INFO - Added action: capability_used
+2025-07-13 21:03:26,397 - aren - INFO - Processing user input: who invent bulb
+2025-07-13 21:03:26,397 - aren - INFO - Selected 'search' with confidence 0.10
+2025-07-13 21:03:26,398 - aren - INFO - Selected capability: search with confidence: 0.1
+2025-07-13 21:03:26,398 - aren - INFO - Processing search query: who invent bulb
+2025-07-13 21:03:27,818 - aren - INFO - Conversation saved to database
+2025-07-13 21:03:27,842 - aren - INFO - Added conversation exchange: who invent bulb...
+2025-07-13 21:03:27,842 - aren - INFO - Added action: capability_used
+2025-07-13 21:03:52,158 - aren - INFO - Processing user input: tell me about HP omen 16 laptop
+2025-07-13 21:03:52,158 - aren - INFO - Selected 'search' with confidence 1.00
+2025-07-13 21:03:52,158 - aren - INFO - Selected capability: search with confidence: 1.0
+2025-07-13 21:03:52,158 - aren - INFO - Processing search query: tell me about HP omen 16 laptop
+2025-07-13 21:03:53,976 - aren - INFO - Conversation saved to database
+2025-07-13 21:03:54,000 - aren - INFO - Added conversation exchange: tell me about HP omen 16 laptop...
+2025-07-13 21:03:54,000 - aren - INFO - Added action: capability_used
+2025-07-13 21:04:46,304 - aren - INFO - Processing user input: did you suggest me to buy omen 16 laptop
+2025-07-13 21:04:46,305 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 21:04:46,312 - aren - INFO - Conversation saved to database
+2025-07-13 21:04:46,335 - aren - INFO - Added conversation exchange: did you suggest me to buy omen 16 laptop...
+2025-07-13 21:04:46,336 - aren - INFO - Added action: capability_used
+2025-07-13 21:05:03,302 - aren - INFO - Processing user input: tell me about SONY
+2025-07-13 21:05:03,302 - aren - INFO - Selected 'search' with confidence 1.00
+2025-07-13 21:05:03,302 - aren - INFO - Selected capability: search with confidence: 1.0
+2025-07-13 21:05:03,302 - aren - INFO - Processing search query: tell me about SONY
+2025-07-13 21:05:04,702 - aren - INFO - Conversation saved to database
+2025-07-13 21:05:04,726 - aren - INFO - Added conversation exchange: tell me about SONY...
+2025-07-13 21:05:04,726 - aren - INFO - Added action: capability_used
+2025-07-13 21:05:22,748 - aren - INFO - Processing user input: who is the CEO of TESLA
+2025-07-13 21:05:22,748 - aren - INFO - Selected 'search' with confidence 0.90
+2025-07-13 21:05:22,748 - aren - INFO - Selected capability: search with confidence: 0.9
+2025-07-13 21:05:22,748 - aren - INFO - Processing search query: who is the CEO of TESLA
+2025-07-13 21:05:24,455 - aren - INFO - Conversation saved to database
+2025-07-13 21:05:24,480 - aren - INFO - Added conversation exchange: who is the CEO of TESLA...
+2025-07-13 21:05:24,480 - aren - INFO - Added action: capability_used
+2025-07-13 21:05:53,286 - aren - INFO - Processing user input: who is the founder of TESLA
+2025-07-13 21:05:53,286 - aren - INFO - Selected 'search' with confidence 0.90
+2025-07-13 21:05:53,287 - aren - INFO - Selected capability: search with confidence: 0.9
+2025-07-13 21:05:53,287 - aren - INFO - Processing search query: who is the founder of TESLA
+2025-07-13 21:05:54,990 - aren - INFO - Conversation saved to database
+2025-07-13 21:05:55,014 - aren - INFO - Added conversation exchange: who is the founder of TESLA...
+2025-07-13 21:05:55,015 - aren - INFO - Added action: capability_used
+2025-07-13 21:06:34,779 - aren - INFO - Processing user input: ok aren by
+2025-07-13 21:06:34,780 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 21:06:34,787 - aren - INFO - Conversation saved to database
+2025-07-13 21:06:34,810 - aren - INFO - Added conversation exchange: ok aren by...
+2025-07-13 21:06:34,811 - aren - INFO - Added action: capability_used
+2025-07-13 21:06:37,120 - aren - INFO - AREN session ended by user
+2025-07-13 21:06:37,120 - aren - INFO - A.R.E.N. session ended
+2025-07-13 21:11:20,825 - aren - INFO - New database connection established
+2025-07-13 21:11:20,845 - aren - INFO - Database connection test successful!
+2025-07-13 21:11:20,846 - aren - INFO - Database connection initialized successfully
+2025-07-13 21:26:33,150 - aren - INFO - New database connection established
+2025-07-13 21:26:33,195 - aren - INFO - Database connection test successful!
+2025-07-13 21:26:33,199 - aren - INFO - Database connection initialized successfully
+2025-07-13 21:36:14,173 - aren - INFO - New database connection established
+2025-07-13 21:36:14,191 - aren - INFO - Database connection test successful!
+2025-07-13 21:36:14,192 - aren - INFO - Database connection initialized successfully
+2025-07-13 21:46:22,245 - aren - INFO - New database connection established
+2025-07-13 21:46:22,264 - aren - INFO - Database connection test successful!
+2025-07-13 21:46:22,265 - aren - INFO - Database connection initialized successfully
+2025-07-13 21:55:30,460 - aren - INFO - New database connection established
+2025-07-13 21:55:30,477 - aren - INFO - Database connection test successful!
+2025-07-13 21:55:30,478 - aren - INFO - Database connection initialized successfully
+2025-07-13 21:56:51,463 - aren - INFO - New database connection established
+2025-07-13 21:56:51,483 - aren - INFO - Database connection test successful!
+2025-07-13 21:56:51,487 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:11:16,809 - aren - INFO - New database connection established
+2025-07-13 22:11:16,845 - aren - INFO - Database connection test successful!
+2025-07-13 22:11:16,847 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:22:06,505 - aren - ERROR - Error initializing Hugging Face models: 
+ requires the protobuf library but it was not found in your environment. Check out the instructions on the
+installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+2025-07-13 22:23:53,499 - aren - INFO - New database connection established
+2025-07-13 22:23:53,522 - aren - INFO - Database connection test successful!
+2025-07-13 22:23:53,523 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:23:56,483 - aren - INFO - New database connection established
+2025-07-13 22:23:56,520 - aren - INFO - Database connection test successful!
+2025-07-13 22:23:56,521 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:25:13,848 - aren - INFO - New database connection established
+2025-07-13 22:25:13,880 - aren - INFO - Database connection test successful!
+2025-07-13 22:25:13,882 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:25:22,189 - aren - INFO - New database connection established
+2025-07-13 22:25:22,213 - aren - INFO - Database connection test successful!
+2025-07-13 22:25:22,214 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:25:53,695 - aren - ERROR - Error initializing Hugging Face models: 
+ requires the protobuf library but it was not found in your environment. Check out the instructions on the
+installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+2025-07-13 22:25:53,704 - aren - ERROR - Error initializing Hugging Face models: 
+ requires the protobuf library but it was not found in your environment. Check out the instructions on the
+installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+2025-07-13 22:26:29,105 - aren - INFO - New database connection established
+2025-07-13 22:26:29,131 - aren - INFO - Database connection test successful!
+2025-07-13 22:26:29,132 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:26:41,614 - aren - INFO - New database connection established
+2025-07-13 22:26:41,676 - aren - INFO - Database connection test successful!
+2025-07-13 22:26:41,680 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:27:03,278 - aren - ERROR - Error initializing Hugging Face models: Converting from SentencePiece and Tiktoken failed, if a converter for SentencePiece is available, provide a model path with a SentencePiece tokenizer.model file.Currently available slow->fast converters: ['AlbertTokenizer', 'BartTokenizer', 'BarthezTokenizer', 'BertTokenizer', 'BigBirdTokenizer', 'BlenderbotTokenizer', 'CamembertTokenizer', 'CLIPTokenizer', 'CodeGenTokenizer', 'ConvBertTokenizer', 'DebertaTokenizer', 'DebertaV2Tokenizer', 'DistilBertTokenizer', 'DPRReaderTokenizer', 'DPRQuestionEncoderTokenizer', 'DPRContextEncoderTokenizer', 'ElectraTokenizer', 'FNetTokenizer', 'FunnelTokenizer', 'GPT2Tokenizer', 'HerbertTokenizer', 'LayoutLMTokenizer', 'LayoutLMv2Tokenizer', 'LayoutLMv3Tokenizer', 'LayoutXLMTokenizer', 'LongformerTokenizer', 'LEDTokenizer', 'LxmertTokenizer', 'MarkupLMTokenizer', 'MBartTokenizer', 'MBart50Tokenizer', 'MPNetTokenizer', 'MobileBertTokenizer', 'MvpTokenizer', 'NllbTokenizer', 'OpenAIGPTTokenizer', 'PegasusTokenizer', 'Qwen2Tokenizer', 'RealmTokenizer', 'ReformerTokenizer', 'RemBertTokenizer', 'RetriBertTokenizer', 'RobertaTokenizer', 'RoFormerTokenizer', 'SeamlessM4TTokenizer', 'SqueezeBertTokenizer', 'T5Tokenizer', 'UdopTokenizer', 'WhisperTokenizer', 'XLMRobertaTokenizer', 'XLNetTokenizer', 'SplinterTokenizer', 'XGLMTokenizer', 'LlamaTokenizer', 'CodeLlamaTokenizer', 'GemmaTokenizer', 'Phi3Tokenizer']
+2025-07-13 22:27:11,339 - aren - ERROR - Error initializing Hugging Face models: Converting from SentencePiece and Tiktoken failed, if a converter for SentencePiece is available, provide a model path with a SentencePiece tokenizer.model file.Currently available slow->fast converters: ['AlbertTokenizer', 'BartTokenizer', 'BarthezTokenizer', 'BertTokenizer', 'BigBirdTokenizer', 'BlenderbotTokenizer', 'CamembertTokenizer', 'CLIPTokenizer', 'CodeGenTokenizer', 'ConvBertTokenizer', 'DebertaTokenizer', 'DebertaV2Tokenizer', 'DistilBertTokenizer', 'DPRReaderTokenizer', 'DPRQuestionEncoderTokenizer', 'DPRContextEncoderTokenizer', 'ElectraTokenizer', 'FNetTokenizer', 'FunnelTokenizer', 'GPT2Tokenizer', 'HerbertTokenizer', 'LayoutLMTokenizer', 'LayoutLMv2Tokenizer', 'LayoutLMv3Tokenizer', 'LayoutXLMTokenizer', 'LongformerTokenizer', 'LEDTokenizer', 'LxmertTokenizer', 'MarkupLMTokenizer', 'MBartTokenizer', 'MBart50Tokenizer', 'MPNetTokenizer', 'MobileBertTokenizer', 'MvpTokenizer', 'NllbTokenizer', 'OpenAIGPTTokenizer', 'PegasusTokenizer', 'Qwen2Tokenizer', 'RealmTokenizer', 'ReformerTokenizer', 'RemBertTokenizer', 'RetriBertTokenizer', 'RobertaTokenizer', 'RoFormerTokenizer', 'SeamlessM4TTokenizer', 'SqueezeBertTokenizer', 'T5Tokenizer', 'UdopTokenizer', 'WhisperTokenizer', 'XLMRobertaTokenizer', 'XLNetTokenizer', 'SplinterTokenizer', 'XGLMTokenizer', 'LlamaTokenizer', 'CodeLlamaTokenizer', 'GemmaTokenizer', 'Phi3Tokenizer']
+2025-07-13 22:27:46,330 - aren - INFO - New database connection established
+2025-07-13 22:27:46,373 - aren - INFO - Database connection test successful!
+2025-07-13 22:27:46,375 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:27:54,415 - aren - INFO - Device set to use cpu
+2025-07-13 22:29:12,972 - aren - INFO - New database connection established
+2025-07-13 22:29:13,003 - aren - INFO - Database connection test successful!
+2025-07-13 22:29:13,005 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:30:45,776 - aren - INFO - New database connection established
+2025-07-13 22:30:45,810 - aren - INFO - Database connection test successful!
+2025-07-13 22:30:45,811 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:30:54,154 - aren - INFO - Device set to use cpu
+2025-07-13 22:34:12,868 - aren - ERROR - Error initializing models: This tokenizer cannot be instantiated. Please make sure you have `sentencepiece` installed in order to use this tokenizer.
+2025-07-13 22:34:12,900 - aren - ERROR - Error initializing models: This tokenizer cannot be instantiated. Please make sure you have `sentencepiece` installed in order to use this tokenizer.
+2025-07-13 22:36:05,246 - aren - INFO - New database connection established
+2025-07-13 22:36:05,268 - aren - INFO - Database connection test successful!
+2025-07-13 22:36:05,269 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:36:10,674 - aren - INFO - Device set to use cpu
+2025-07-13 22:36:18,345 - aren - ERROR - Error initializing models: This tokenizer cannot be instantiated. Please make sure you have `sentencepiece` installed in order to use this tokenizer.
+2025-07-13 22:40:18,656 - aren - INFO - New database connection established
+2025-07-13 22:40:18,758 - aren - INFO - Database connection test successful!
+2025-07-13 22:40:18,760 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:40:31,932 - aren - INFO - Device set to use cpu
+2025-07-13 22:42:57,442 - aren - INFO - Successfully initialized Hugging Face models
+2025-07-13 22:42:57,442 - aren - INFO - Starting A.R.E.N.
+2025-07-13 22:42:57,512 - aren - INFO - Recent data loaded successfully
+2025-07-13 22:42:57,513 - aren - INFO - Context Manager initialized
+2025-07-13 22:42:57,529 - aren - INFO - System info saved: creator_name
+2025-07-13 22:42:57,579 - aren - INFO - System info saved: creator_nickname
+2025-07-13 22:42:57,587 - aren - INFO - System info saved: creator_alias
+2025-07-13 22:42:57,598 - aren - INFO - System info saved: creator_education
+2025-07-13 22:42:57,617 - aren - INFO - System info saved: creation_date
+2025-07-13 22:42:57,631 - aren - INFO - System info saved: system_name
+2025-07-13 22:42:57,646 - aren - INFO - AREN Engine initialized
+2025-07-13 22:43:06,818 - aren - INFO - Processing user input: hello
+2025-07-13 22:43:07,053 - aren - ERROR - Error in main processing loop: 'sentiment'
+2025-07-13 22:43:12,856 - aren - INFO - Processing user input: hello aren
+2025-07-13 22:43:13,048 - aren - ERROR - Error in main processing loop: 'sentiment'
+2025-07-13 22:43:25,282 - aren - INFO - A.R.E.N. session ended
+2025-07-13 22:43:39,727 - aren - INFO - New database connection established
+2025-07-13 22:43:39,749 - aren - INFO - Database connection test successful!
+2025-07-13 22:43:39,750 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:43:48,151 - aren - INFO - Device set to use cpu
+2025-07-13 22:43:54,246 - aren - INFO - Successfully initialized Hugging Face models
+2025-07-13 22:43:54,317 - aren - INFO - Recent data loaded successfully
+2025-07-13 22:43:54,317 - aren - INFO - Context Manager initialized
+2025-07-13 22:43:54,328 - aren - INFO - System info saved: creator_name
+2025-07-13 22:43:54,357 - aren - INFO - System info saved: creator_nickname
+2025-07-13 22:43:54,374 - aren - INFO - System info saved: creator_alias
+2025-07-13 22:43:54,388 - aren - INFO - System info saved: creator_education
+2025-07-13 22:43:54,407 - aren - INFO - System info saved: creation_date
+2025-07-13 22:43:54,424 - aren - INFO - System info saved: system_name
+2025-07-13 22:43:54,434 - aren - INFO - AREN Engine initialized
+2025-07-13 22:43:54,442 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 22:44:24,571 - aren - INFO - New database connection established
+2025-07-13 22:44:24,634 - aren - INFO - Database connection test successful!
+2025-07-13 22:44:24,635 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:44:32,121 - aren - INFO - Device set to use cpu
+2025-07-13 22:44:37,871 - aren - INFO - Successfully initialized Hugging Face models
+2025-07-13 22:44:37,871 - aren - INFO - Starting A.R.E.N.
+2025-07-13 22:44:37,951 - aren - INFO - Recent data loaded successfully
+2025-07-13 22:44:37,951 - aren - INFO - Context Manager initialized
+2025-07-13 22:44:37,962 - aren - INFO - System info saved: creator_name
+2025-07-13 22:44:38,009 - aren - INFO - System info saved: creator_nickname
+2025-07-13 22:44:38,037 - aren - INFO - System info saved: creator_alias
+2025-07-13 22:44:38,053 - aren - INFO - System info saved: creator_education
+2025-07-13 22:44:38,071 - aren - INFO - System info saved: creation_date
+2025-07-13 22:44:38,087 - aren - INFO - System info saved: system_name
+2025-07-13 22:44:38,091 - aren - INFO - AREN Engine initialized
+2025-07-13 22:44:43,261 - aren - INFO - Processing user input: hello
+2025-07-13 22:44:43,535 - aren - INFO - Input sentiment: {'label': 'POSITIVE', 'score': 0.9995185136795044}
+2025-07-13 22:44:44,025 - aren - INFO - Detected intent class: 1
+2025-07-13 22:44:44,026 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 22:45:02,074 - aren - INFO - Conversation saved to database
+2025-07-13 22:45:02,110 - aren - INFO - Added conversation exchange: hello...
+2025-07-13 22:45:02,111 - aren - INFO - Added action: capability_used
+2025-07-13 22:45:16,608 - aren - INFO - Processing user input: hello
+2025-07-13 22:45:16,775 - aren - INFO - Input sentiment: {'label': 'POSITIVE', 'score': 0.9995185136795044}
+2025-07-13 22:45:17,089 - aren - INFO - Detected intent class: 1
+2025-07-13 22:45:17,090 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 22:45:21,825 - aren - INFO - A.R.E.N. session ended
+2025-07-13 22:46:32,103 - aren - INFO - New database connection established
+2025-07-13 22:46:32,135 - aren - INFO - Database connection test successful!
+2025-07-13 22:46:32,137 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:46:41,259 - aren - INFO - Device set to use cpu
+2025-07-13 22:46:47,893 - aren - INFO - Successfully initialized Hugging Face models
+2025-07-13 22:46:47,894 - aren - INFO - Starting A.R.E.N.
+2025-07-13 22:46:47,974 - aren - INFO - Recent data loaded successfully
+2025-07-13 22:46:47,975 - aren - INFO - Context Manager initialized
+2025-07-13 22:46:47,984 - aren - INFO - System info saved: creator_name
+2025-07-13 22:46:48,006 - aren - INFO - System info saved: creator_nickname
+2025-07-13 22:46:48,027 - aren - INFO - System info saved: creator_alias
+2025-07-13 22:46:48,047 - aren - INFO - System info saved: creator_education
+2025-07-13 22:46:48,068 - aren - INFO - System info saved: creation_date
+2025-07-13 22:46:48,083 - aren - INFO - System info saved: system_name
+2025-07-13 22:46:48,088 - aren - INFO - AREN Engine initialized
+2025-07-13 22:47:27,728 - aren - INFO - Processing user input: hello
+2025-07-13 22:47:27,890 - aren - INFO - Input sentiment: {'label': 'POSITIVE', 'score': 0.9995185136795044}
+2025-07-13 22:47:28,258 - aren - INFO - Detected intent class: 0
+2025-07-13 22:47:28,259 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 22:47:47,757 - aren - INFO - Conversation saved to database
+2025-07-13 22:47:47,787 - aren - INFO - Added conversation exchange: hello...
+2025-07-13 22:47:47,788 - aren - INFO - Added action: capability_used
+2025-07-13 22:49:28,831 - aren - INFO - New database connection established
+2025-07-13 22:49:28,876 - aren - INFO - Database connection test successful!
+2025-07-13 22:49:28,877 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:49:36,817 - aren - INFO - Device set to use cpu
+2025-07-13 22:49:42,773 - aren - INFO - Successfully initialized Hugging Face models
+2025-07-13 22:49:42,819 - aren - INFO - Recent data loaded successfully
+2025-07-13 22:49:42,819 - aren - INFO - Context Manager initialized
+2025-07-13 22:49:42,824 - aren - INFO - System info saved: creator_name
+2025-07-13 22:49:42,858 - aren - INFO - System info saved: creator_nickname
+2025-07-13 22:49:42,872 - aren - INFO - System info saved: creator_alias
+2025-07-13 22:49:42,884 - aren - INFO - System info saved: creator_education
+2025-07-13 22:49:42,897 - aren - INFO - System info saved: creation_date
+2025-07-13 22:49:42,908 - aren - INFO - System info saved: system_name
+2025-07-13 22:49:42,914 - aren - INFO - AREN Engine initialized
+2025-07-13 22:49:42,921 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 22:50:24,986 - aren - INFO - New database connection established
+2025-07-13 22:50:25,008 - aren - INFO - Database connection test successful!
+2025-07-13 22:50:25,009 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:50:30,142 - aren - INFO - Device set to use cpu
+2025-07-13 22:51:11,115 - aren - INFO - Successfully initialized Hugging Face models
+2025-07-13 22:51:11,115 - aren - INFO - Starting A.R.E.N.
+2025-07-13 22:51:11,174 - aren - INFO - Recent data loaded successfully
+2025-07-13 22:51:11,174 - aren - INFO - Context Manager initialized
+2025-07-13 22:51:11,184 - aren - INFO - System info saved: creator_name
+2025-07-13 22:51:11,216 - aren - INFO - System info saved: creator_nickname
+2025-07-13 22:51:11,232 - aren - INFO - System info saved: creator_alias
+2025-07-13 22:51:11,244 - aren - INFO - System info saved: creator_education
+2025-07-13 22:51:11,253 - aren - INFO - System info saved: creation_date
+2025-07-13 22:51:11,264 - aren - INFO - System info saved: system_name
+2025-07-13 22:51:11,268 - aren - INFO - AREN Engine initialized
+2025-07-13 22:51:18,387 - aren - INFO - Processing user input: hello aren
+2025-07-13 22:51:18,535 - aren - INFO - Input sentiment: {'label': 'POSITIVE', 'score': 0.9990530610084534}
+2025-07-13 22:51:18,734 - aren - INFO - Detected intent class: 0
+2025-07-13 22:51:18,735 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 22:51:37,307 - aren - INFO - Conversation saved to database
+2025-07-13 22:51:37,333 - aren - INFO - Added conversation exchange: hello aren...
+2025-07-13 22:51:37,334 - aren - INFO - Added action: capability_used
+2025-07-13 22:52:19,208 - aren - INFO - Processing user input: hello aren
+2025-07-13 22:52:19,370 - aren - INFO - Input sentiment: {'label': 'POSITIVE', 'score': 0.9990530610084534}
+2025-07-13 22:52:19,527 - aren - INFO - Detected intent class: 0
+2025-07-13 22:52:19,527 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 22:52:31,759 - aren - INFO - Conversation saved to database
+2025-07-13 22:52:31,784 - aren - INFO - Added conversation exchange: hello aren...
+2025-07-13 22:52:31,784 - aren - INFO - Added action: capability_used
+2025-07-13 22:56:55,004 - aren - INFO - New database connection established
+2025-07-13 22:56:55,032 - aren - INFO - Database connection test successful!
+2025-07-13 22:56:55,033 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:56:55,034 - aren - INFO - Starting A.R.E.N.
+2025-07-13 22:56:55,093 - aren - ERROR - Failed to import GUI components: No module named 'customtkinter'
+2025-07-13 22:56:55,235 - aren - INFO - Recent data loaded successfully
+2025-07-13 22:56:55,236 - aren - INFO - Context Manager initialized
+2025-07-13 22:56:55,244 - aren - INFO - System info saved: creator_name
+2025-07-13 22:56:55,272 - aren - INFO - System info saved: creator_nickname
+2025-07-13 22:56:55,284 - aren - INFO - System info saved: creator_alias
+2025-07-13 22:56:55,300 - aren - INFO - System info saved: creator_education
+2025-07-13 22:56:55,317 - aren - INFO - System info saved: creation_date
+2025-07-13 22:56:55,331 - aren - INFO - System info saved: system_name
+2025-07-13 22:56:55,344 - aren - INFO - AREN Engine initialized
+2025-07-13 22:56:59,530 - aren - INFO - Processing user input: hello aren
+2025-07-13 22:56:59,531 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-13 22:56:59,531 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-13 22:56:59,531 - aren - INFO - Selected greeting: Hello! Working late tonight?
+2025-07-13 22:56:59,547 - aren - INFO - Conversation saved to database
+2025-07-13 22:56:59,580 - aren - INFO - Added conversation exchange: hello aren...
+2025-07-13 22:56:59,581 - aren - INFO - Added action: capability_used
+2025-07-13 22:57:55,115 - aren - INFO - New database connection established
+2025-07-13 22:57:55,145 - aren - INFO - Database connection test successful!
+2025-07-13 22:57:55,146 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:57:55,148 - aren - INFO - Starting A.R.E.N.
+2025-07-13 22:57:55,165 - aren - ERROR - Failed to import GUI components: No module named 'customtkinter'
+2025-07-13 22:57:55,257 - aren - INFO - Recent data loaded successfully
+2025-07-13 22:57:55,257 - aren - INFO - Context Manager initialized
+2025-07-13 22:57:55,264 - aren - INFO - System info saved: creator_name
+2025-07-13 22:57:55,285 - aren - INFO - System info saved: creator_nickname
+2025-07-13 22:57:55,300 - aren - INFO - System info saved: creator_alias
+2025-07-13 22:57:55,314 - aren - INFO - System info saved: creator_education
+2025-07-13 22:57:55,327 - aren - INFO - System info saved: creation_date
+2025-07-13 22:57:55,341 - aren - INFO - System info saved: system_name
+2025-07-13 22:57:55,349 - aren - INFO - AREN Engine initialized
+2025-07-13 22:58:00,519 - aren - INFO - Processing user input: hy aren
+2025-07-13 22:58:00,539 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 22:58:00,562 - aren - INFO - Conversation saved to database
+2025-07-13 22:58:00,570 - aren - INFO - Added conversation exchange: hy aren...
+2025-07-13 22:58:00,571 - aren - INFO - Added action: capability_used
+2025-07-13 22:58:25,965 - aren - INFO - New database connection established
+2025-07-13 22:58:25,988 - aren - INFO - Database connection test successful!
+2025-07-13 22:58:25,988 - aren - INFO - Database connection initialized successfully
+2025-07-13 22:58:26,044 - aren - INFO - Recent data loaded successfully
+2025-07-13 22:58:26,044 - aren - INFO - Context Manager initialized
+2025-07-13 22:58:26,050 - aren - INFO - System info saved: creator_name
+2025-07-13 22:58:26,071 - aren - INFO - System info saved: creator_nickname
+2025-07-13 22:58:26,088 - aren - INFO - System info saved: creator_alias
+2025-07-13 22:58:26,102 - aren - INFO - System info saved: creator_education
+2025-07-13 22:58:26,118 - aren - INFO - System info saved: creation_date
+2025-07-13 22:58:26,136 - aren - INFO - System info saved: system_name
+2025-07-13 22:58:26,145 - aren - INFO - AREN Engine initialized
+2025-07-13 22:58:26,151 - aren - ERROR - Invalid port number: --debug
+2025-07-13 22:58:26,151 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 23:01:34,290 - aren - INFO - New database connection established
+2025-07-13 23:01:34,316 - aren - INFO - Database connection test successful!
+2025-07-13 23:01:34,318 - aren - INFO - Database connection initialized successfully
+2025-07-13 23:01:34,396 - aren - INFO - Recent data loaded successfully
+2025-07-13 23:01:34,396 - aren - INFO - Context Manager initialized
+2025-07-13 23:01:34,401 - aren - INFO - System info saved: creator_name
+2025-07-13 23:01:34,433 - aren - INFO - System info saved: creator_nickname
+2025-07-13 23:01:34,442 - aren - INFO - System info saved: creator_alias
+2025-07-13 23:01:34,460 - aren - INFO - System info saved: creator_education
+2025-07-13 23:01:34,472 - aren - INFO - System info saved: creation_date
+2025-07-13 23:01:34,492 - aren - INFO - System info saved: system_name
+2025-07-13 23:01:34,508 - aren - INFO - AREN Engine initialized
+2025-07-13 23:01:34,512 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 23:04:16,011 - aren - INFO - Processing user input: test
+2025-07-13 23:04:16,011 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:04:16,020 - aren - INFO - Conversation saved to database
+2025-07-13 23:04:16,047 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:04:16,048 - aren - INFO - Added action: capability_used
+2025-07-13 23:04:35,672 - aren - INFO - Processing user input: test
+2025-07-13 23:04:35,673 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:04:35,698 - aren - INFO - Conversation saved to database
+2025-07-13 23:04:35,703 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:04:35,703 - aren - INFO - Added action: capability_used
+2025-07-13 23:04:35,884 - aren - INFO - API request from user user123: Hy
+2025-07-13 23:04:35,884 - aren - INFO - Processing user input: Hy
+2025-07-13 23:04:35,884 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:04:35,897 - aren - INFO - Conversation saved to database
+2025-07-13 23:04:35,924 - aren - INFO - Added conversation exchange: Hy...
+2025-07-13 23:04:35,924 - aren - INFO - Added action: capability_used
+2025-07-13 23:05:25,645 - aren - INFO - Processing user input: test
+2025-07-13 23:05:25,646 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:05:25,651 - aren - INFO - Conversation saved to database
+2025-07-13 23:05:25,675 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:05:25,677 - aren - INFO - Added action: capability_used
+2025-07-13 23:05:35,271 - aren - INFO - Processing user input: test
+2025-07-13 23:05:35,271 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:05:35,276 - aren - INFO - Conversation saved to database
+2025-07-13 23:05:35,300 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:05:35,300 - aren - INFO - Added action: capability_used
+2025-07-13 23:05:35,482 - aren - INFO - API request from user user123: Listening...
+2025-07-13 23:05:35,482 - aren - INFO - Processing user input: Listening...
+2025-07-13 23:05:35,482 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:05:35,487 - aren - INFO - Conversation saved to database
+2025-07-13 23:05:35,499 - aren - INFO - Added conversation exchange: Listening......
+2025-07-13 23:05:35,500 - aren - INFO - Added action: capability_used
+2025-07-13 23:05:37,121 - aren - INFO - Processing user input: test
+2025-07-13 23:05:37,121 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:05:37,126 - aren - INFO - Conversation saved to database
+2025-07-13 23:05:37,150 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:05:37,150 - aren - INFO - Added action: capability_used
+2025-07-13 23:05:37,934 - aren - INFO - API request from user user123: What time is it?
+2025-07-13 23:05:37,934 - aren - INFO - Processing user input: What time is it?
+2025-07-13 23:05:37,935 - aren - INFO - Selected 'time' with confidence 0.90
+2025-07-13 23:05:37,935 - aren - INFO - Selected capability: time with confidence: 0.9
+2025-07-13 23:05:37,940 - aren - INFO - Conversation saved to database
+2025-07-13 23:05:37,964 - aren - INFO - Added conversation exchange: What time is it?...
+2025-07-13 23:05:37,965 - aren - INFO - Added action: capability_used
+2025-07-13 23:05:42,859 - aren - INFO - Processing user input: test
+2025-07-13 23:05:42,860 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:05:42,864 - aren - INFO - Conversation saved to database
+2025-07-13 23:05:42,889 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:05:42,890 - aren - INFO - Added action: capability_used
+2025-07-13 23:05:43,060 - aren - INFO - API request from user user123: Hello
+2025-07-13 23:05:43,060 - aren - INFO - Processing user input: Hello
+2025-07-13 23:05:43,061 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-13 23:05:43,061 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-13 23:05:43,061 - aren - INFO - Selected greeting: Namaste! Raat me jaag rahe hain?
+2025-07-13 23:05:43,067 - aren - INFO - Conversation saved to database
+2025-07-13 23:05:43,080 - aren - INFO - Added conversation exchange: Hello...
+2025-07-13 23:05:43,080 - aren - INFO - Added action: capability_used
+2025-07-13 23:08:13,700 - aren - INFO - Processing user input: test
+2025-07-13 23:08:13,700 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:08:13,728 - aren - INFO - Conversation saved to database
+2025-07-13 23:08:13,734 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:08:13,734 - aren - INFO - Added action: capability_used
+2025-07-13 23:08:23,917 - aren - INFO - Processing user input: test
+2025-07-13 23:08:23,917 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:08:23,922 - aren - INFO - Conversation saved to database
+2025-07-13 23:08:23,927 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:08:23,927 - aren - INFO - Added action: capability_used
+2025-07-13 23:08:23,967 - aren - INFO - API request from user user123: Hello
+2025-07-13 23:08:23,967 - aren - INFO - Processing user input: Hello
+2025-07-13 23:08:23,967 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-13 23:08:23,967 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-13 23:08:23,968 - aren - INFO - Selected greeting: Hello! Working late tonight?
+2025-07-13 23:08:23,979 - aren - INFO - Conversation saved to database
+2025-07-13 23:08:23,988 - aren - INFO - Added conversation exchange: Hello...
+2025-07-13 23:08:23,988 - aren - INFO - Added action: capability_used
+2025-07-13 23:08:25,568 - aren - INFO - API request from user user123: Hello
+2025-07-13 23:08:25,568 - aren - INFO - Processing user input: Hello
+2025-07-13 23:08:25,569 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-13 23:08:25,569 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-13 23:08:25,569 - aren - INFO - Selected greeting: Hi there! Kya main aapki kuch madad kar sakta hoon?
+2025-07-13 23:08:25,573 - aren - INFO - Conversation saved to database
+2025-07-13 23:08:25,597 - aren - INFO - Added conversation exchange: Hello...
+2025-07-13 23:08:25,597 - aren - INFO - Added action: capability_used
+2025-07-13 23:08:57,934 - aren - INFO - Processing user input: test
+2025-07-13 23:08:57,934 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:08:57,940 - aren - INFO - Conversation saved to database
+2025-07-13 23:08:57,964 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:08:57,965 - aren - INFO - Added action: capability_used
+2025-07-13 23:08:59,061 - aren - INFO - Processing user input: test
+2025-07-13 23:08:59,061 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:08:59,068 - aren - INFO - Conversation saved to database
+2025-07-13 23:08:59,076 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:08:59,076 - aren - INFO - Added action: capability_used
+2025-07-13 23:08:59,463 - aren - INFO - API request from user user123: Who made you
+2025-07-13 23:08:59,463 - aren - INFO - Processing user input: Who made you
+2025-07-13 23:08:59,464 - aren - INFO - Selected 'identity' with confidence 0.27
+2025-07-13 23:08:59,464 - aren - INFO - Selected capability: identity with confidence: 0.26666666666666666
+2025-07-13 23:08:59,477 - aren - INFO - Conversation saved to database
+2025-07-13 23:08:59,503 - aren - INFO - Added conversation exchange: Who made you...
+2025-07-13 23:08:59,503 - aren - INFO - Added action: capability_used
+2025-07-13 23:09:58,946 - aren - INFO - Processing user input: test
+2025-07-13 23:09:58,946 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:09:58,953 - aren - INFO - Conversation saved to database
+2025-07-13 23:09:58,979 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:09:58,979 - aren - INFO - Added action: capability_used
+2025-07-13 23:09:59,025 - aren - INFO - API request from user user123: Tell me about your self
+2025-07-13 23:09:59,025 - aren - INFO - Processing user input: Tell me about your self
+2025-07-13 23:09:59,025 - aren - INFO - Selected 'identity' with confidence 0.13
+2025-07-13 23:09:59,025 - aren - INFO - Selected capability: identity with confidence: 0.13333333333333333
+2025-07-13 23:09:59,038 - aren - INFO - Conversation saved to database
+2025-07-13 23:09:59,044 - aren - INFO - Added conversation exchange: Tell me about your self...
+2025-07-13 23:09:59,044 - aren - INFO - Added action: capability_used
+2025-07-13 23:10:00,495 - aren - INFO - API request from user user123: Tell me about your self
+2025-07-13 23:10:00,495 - aren - INFO - Processing user input: Tell me about your self
+2025-07-13 23:10:00,495 - aren - INFO - Selected 'identity' with confidence 0.13
+2025-07-13 23:10:00,495 - aren - INFO - Selected capability: identity with confidence: 0.13333333333333333
+2025-07-13 23:10:00,505 - aren - INFO - Conversation saved to database
+2025-07-13 23:10:00,511 - aren - INFO - Added conversation exchange: Tell me about your self...
+2025-07-13 23:10:00,512 - aren - INFO - Added action: capability_used
+2025-07-13 23:12:03,778 - aren - INFO - New database connection established
+2025-07-13 23:12:03,792 - aren - INFO - Database connection test successful!
+2025-07-13 23:12:03,792 - aren - INFO - Database connection initialized successfully
+2025-07-13 23:12:03,821 - aren - INFO - Recent data loaded successfully
+2025-07-13 23:12:03,821 - aren - INFO - Context Manager initialized
+2025-07-13 23:12:03,823 - aren - INFO - System info saved: creator_name
+2025-07-13 23:12:03,828 - aren - INFO - System info saved: creator_nickname
+2025-07-13 23:12:03,831 - aren - INFO - System info saved: creator_alias
+2025-07-13 23:12:03,834 - aren - INFO - System info saved: creator_education
+2025-07-13 23:12:03,837 - aren - INFO - System info saved: creation_date
+2025-07-13 23:12:03,840 - aren - INFO - System info saved: system_name
+2025-07-13 23:12:03,842 - aren - INFO - AREN Engine initialized
+2025-07-13 23:12:03,843 - aren - INFO - Starting AREN API server on :::1906
+2025-07-13 23:12:12,001 - aren - INFO - Processing user input: test
+2025-07-13 23:12:12,001 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:12:12,006 - aren - INFO - Conversation saved to database
+2025-07-13 23:12:12,018 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:12:12,019 - aren - INFO - Added action: capability_used
+2025-07-13 23:12:13,417 - aren - INFO - Processing user input: test
+2025-07-13 23:12:13,417 - aren - INFO - Selected capability: unknown with confidence: 0.5
+2025-07-13 23:12:13,423 - aren - INFO - Conversation saved to database
+2025-07-13 23:12:13,445 - aren - INFO - Added conversation exchange: test...
+2025-07-13 23:12:13,446 - aren - INFO - Added action: capability_used
+2025-07-13 23:12:13,488 - aren - INFO - API request from user user123: hi'
+2025-07-13 23:12:13,488 - aren - INFO - Processing user input: hi'
+2025-07-13 23:12:13,489 - aren - INFO - Selected 'greeting' with confidence 1.00
+2025-07-13 23:12:13,489 - aren - INFO - Selected capability: greeting with confidence: 1.0
+2025-07-13 23:12:13,489 - aren - INFO - Selected greeting: Namaste! Raat me jaag rahe hain?
+2025-07-13 23:12:13,499 - aren - INFO - Conversation saved to database
+2025-07-13 23:12:13,502 - aren - INFO - Added conversation exchange: hi'...
+2025-07-13 23:12:13,502 - aren - INFO - Added action: capability_used

@@ -64,9 +64,9 @@ def run_gui_mode():
     try:
         # Import GUI only when needed
         from chat_gui import ArenChatGUI
-    logger.info("Starting AREN in GUI mode")
-    app = ArenChatGUI()
-    app.run()
+        logger.info("Starting AREN in GUI mode")
+        app = ArenChatGUI()
+        app.run()
     except ImportError as e:
         logger.error(f"Failed to import GUI components: {str(e)}")
         print("Error: GUI mode requires customtkinter. Running in CLI mode instead.")
